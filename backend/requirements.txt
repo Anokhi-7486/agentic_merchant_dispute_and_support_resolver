@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+mediapipe
+opencv-python-headless
+sqlalchemy
+psycopg2-binary
+python-multipart
+pydantic-settings
+torch
+transformers
+numpy
+httpx

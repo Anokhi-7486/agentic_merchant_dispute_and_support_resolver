@@ -1,0 +1,329 @@
+:root {
+  --bg-color: #020205;
+  --panel-bg: rgba(10, 10, 20, 0.7);
+  --border-color: rgba(255, 255, 255, 0.15);
+  --accent-color: #00d4ff;
+  --text-color: #f0f0f0;
+  --glow-color: rgba(0, 212, 255, 0.3);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Outfit', sans-serif;
+  overflow: hidden;
+  background-image: 
+    radial-gradient(circle at 50% 50%, #1a1a2e 0%, transparent 50%),
+    url('https://www.transparenttextures.com/patterns/stardust.png');
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 30px;
+  box-sizing: border-box;
+  background: radial-gradient(circle at 0% 0%, rgba(0, 212, 255, 0.05) 0%, transparent 40%);
+  position: relative;
+}
+
+/* Floating Space Background Effect */
+.app-container::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('/assets/porsche_front_ui_1780327914299.png') no-repeat;
+  background-size: 100px;
+  opacity: 0.03;
+  filter: blur(2px);
+  animation: float-bg 60s infinite linear;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes float-bg {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 400% 400%; }
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  backdrop-filter: blur(10px);
+  padding: 15px 30px;
+  border-radius: 20px;
+  background: var(--panel-bg);
+  border: 1px solid var(--border-color);
+  z-index: 10;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-section h1 {
+  font-weight: 900;
+  font-size: 2rem;
+  margin: 0;
+  letter-spacing: -1px;
+  text-shadow: 0 0 20px var(--glow-color);
+  background: linear-gradient(to right, #fff, var(--accent-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.status-badges {
+  display: flex;
+  gap: 15px;
+}
+
+.badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 16px;
+  border-radius: 30px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s;
+}
+
+.badge.active {
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+  background: rgba(0, 212, 255, 0.1);
+  box-shadow: 0 0 15px rgba(0, 212, 255, 0.2);
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  z-index: 5;
+}
+
+.avatar-viewer {
+  flex: 1;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  background: #000;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.8), inset 0 0 100px rgba(0, 212, 255, 0.1);
+}
+
+.overlay-data {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.data-card {
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(12px);
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid var(--border-color);
+  min-width: 180px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.data-card h3 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  margin: 0 0 12px 0;
+  opacity: 0.5;
+  letter-spacing: 2px;
+}
+
+.emotion-label {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin: 0 0 12px 0;
+  color: var(--accent-color);
+}
+
+.confidence-bar {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.confidence-fill {
+  height: 100%;
+  background: var(--accent-color);
+  box-shadow: 0 0 10px var(--accent-color);
+  transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Racing Car Key Controls */
+.controls {
+  background: var(--panel-bg);
+  padding: 30px;
+  border-radius: 24px;
+  border: 1px solid var(--border-color);
+  backdrop-filter: blur(10px);
+}
+
+.controls label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: 0.6;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.button-row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.car-key {
+  width: 130px;
+  height: 170px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  position: relative;
+  overflow: hidden;
+}
+
+.car-key:hover {
+  transform: translateY(-15px) scale(1.05);
+  border-color: var(--accent-color);
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 15px 40px rgba(0, 212, 255, 0.2);
+}
+
+.car-key.active {
+  background: rgba(0, 212, 255, 0.1);
+  border-color: var(--accent-color);
+  box-shadow: 0 0 50px rgba(0, 212, 255, 0.4), inset 0 0 20px rgba(0, 212, 255, 0.2);
+}
+
+.car-image-container {
+  width: 100%;
+  padding: 10px;
+  transition: transform 0.4s;
+}
+
+.car-key:hover .car-image-container {
+  transform: scale(1.1);
+}
+
+.car-image-container img {
+  width: 100%;
+  display: block;
+}
+
+.car-key span {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+/* Help Bot */
+.help-bot-container {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  z-index: 1000;
+}
+
+.bot-trigger {
+  width: 90px;
+  height: 90px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.3s;
+}
+
+.bot-trigger:hover {
+  transform: scale(1.15) rotate(10deg);
+}
+
+.bot-trigger img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 0 15px var(--accent-color));
+}
+
+.bot-glow {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 100%; height: 100%;
+  background: var(--accent-color);
+  border-radius: 50%;
+  filter: blur(25px);
+  opacity: 0.3;
+  transform: translate(-50%, -50%);
+  animation: pulse 3s infinite;
+}
+
+.chat-bubble {
+  position: absolute;
+  bottom: 110px;
+  right: 0;
+  background: rgba(0,0,0,0.8);
+  border: 1px solid var(--accent-color);
+  padding: 20px;
+  border-radius: 20px;
+  width: 250px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.6);
+  animation: slideUp 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.chat-bubble p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px) scale(0.9); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes pulse {
+  0% { transform: translate(-50%, -50%) scale(0.9); opacity: 0.2; }
+  50% { transform: translate(-50%, -50%) scale(1.1); opacity: 0.4; }
+  100% { transform: translate(-50%, -50%) scale(0.9); opacity: 0.2; }
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+  opacity: 0.4;
+}
+
+footer p {
+  margin: 0 0 8px 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+}

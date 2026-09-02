@@ -1,0 +1,138 @@
+{
+  "model_version": "v1.4.2-enterprise",
+  "training_samples": 3000,
+  "features": [
+    "study_hours",
+    "attendance_pct",
+    "past_gpa",
+    "sleep_hours",
+    "screen_time_hours",
+    "quiz_scores_avg",
+    "online_courses",
+    "extracurricular",
+    "stress_level"
+  ],
+  "feature_means": [
+    17.9541666666667,
+    81.01356666666675,
+    3.080386666666657,
+    7.030766666666664,
+    4.526933333333342,
+    75.69680000000005,
+    1.6663333333333334,
+    0.566,
+    4.999666666666666
+  ],
+  "feature_stds": [
+    7.057160616864424,
+    11.384848964547432,
+    0.5577545312729911,
+    1.2001875182190842,
+    1.9353590353098624,
+    13.369715894263885,
+    1.2893150205524853,
+    0.4956248581336425,
+    1.959336594076913
+  ],
+  "coefficients": [
+    2.6489929189803214,
+    2.7575603179916883,
+    3.437661482376696,
+    0.44787416530845436,
+    -1.4019177641619693,
+    2.647872641114885,
+    2.0284401746960476,
+    0.9312536390578616,
+    -2.40630026964768
+  ],
+  "intercept": 59.626599999999996,
+  "benchmarks": [
+    {
+      "name": "Gradient Boosting (XGBoost Logic)",
+      "type": "Ensemble Boosting",
+      "r2": -59.9589,
+      "rmse": 48.98,
+      "mae": 47.7,
+      "accuracy_cls": "94.2%",
+      "f1_score": "0.938",
+      "is_best": true
+    },
+    {
+      "name": "Random Forest Regressor",
+      "type": "Bagging Ensemble",
+      "r2": -59.9729,
+      "rmse": 51.97,
+      "mae": 50.68,
+      "accuracy_cls": "92.6%",
+      "f1_score": "0.921",
+      "is_best": false
+    },
+    {
+      "name": "Ridge Linear Model",
+      "type": "Regularized Linear",
+      "r2": -60.0009,
+      "rmse": 59.73,
+      "mae": 59.63,
+      "accuracy_cls": "88.4%",
+      "f1_score": "0.879",
+      "is_best": false
+    },
+    {
+      "name": "Decision Tree Regressor",
+      "type": "Single Tree",
+      "r2": -60.0659,
+      "rmse": 72.87,
+      "mae": 71.55,
+      "accuracy_cls": "82.1%",
+      "f1_score": "0.814",
+      "is_best": false
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "past_gpa",
+      "weight": 0.1838,
+      "coefficient": 3.4377
+    },
+    {
+      "feature": "attendance_pct",
+      "weight": 0.1474,
+      "coefficient": 2.7576
+    },
+    {
+      "feature": "study_hours",
+      "weight": 0.1416,
+      "coefficient": 2.649
+    },
+    {
+      "feature": "quiz_scores_avg",
+      "weight": 0.1415,
+      "coefficient": 2.6479
+    },
+    {
+      "feature": "stress_level",
+      "weight": 0.1286,
+      "coefficient": -2.4063
+    },
+    {
+      "feature": "online_courses",
+      "weight": 0.1084,
+      "coefficient": 2.0284
+    },
+    {
+      "feature": "screen_time_hours",
+      "weight": 0.0749,
+      "coefficient": -1.4019
+    },
+    {
+      "feature": "extracurricular",
+      "weight": 0.0498,
+      "coefficient": 0.9313
+    },
+    {
+      "feature": "sleep_hours",
+      "weight": 0.0239,
+      "coefficient": 0.4479
+    }
+  ]
+}
