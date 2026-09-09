@@ -1,114 +1,91 @@
-<<<<<<< HEAD
-# student_performance_analysis
-=======
-# 🎓 Student Performance Analytics & AI Prediction Engine (15-20 LPA Resume Standard)
+# ⚡ Martinovation 2026 — Genesis of Tomorrow
+### Official Techno-Cultural Fest Platform | Usha Martin University, Ranchi
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Serverless--Ready-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![ML Accuracy](https://img.shields.io/badge/Model%20Accuracy-94.2%25-10b981?style=for-the-badge&logo=scikit-learn&logoColor=white)](#-model-benchmarks--diagnostics)
-[![Explainable AI](https://img.shields.io/badge/XAI-SHAP%20Attributions-06b6d4?style=for-the-badge)](#-explainable-ai-shap-attribution)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Anokhi--7486%2Fstudent__performance__analysis-6366f1?style=for-the-badge&logo=github)](https://github.com/Anokhi-7486/student_performance_analysis)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Anokhi-7486/tech_fest_website)
+[![React 18](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Express Backend](https://img.shields.io/badge/Node.js-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-A production-grade, end-to-end **Student Performance Analytics & AI Prediction System** built with **React**, **Vite**, **Vercel Serverless Functions**, and **Python ML Pipeline** (Gradient Boosting, Random Forest, Explainable AI SHAP attributions, and What-If counterfactual simulation).
+**Martinovation 2026** is the next-generation, high-performance techno-cultural fest platform for **Usha Martin University**, taking place from **October 5 to October 9, 2026**. Designed with an **Anime & Cyberpunk Arcade HUD aesthetic**, full web audio SFX synthesis, interactive GSAP motion feel, live QR pass generator, AI companion, and Express + MongoDB API.
 
 ---
 
-## 🌟 Key Architecture & Enterprise Features
+## 🎮 Key Features
 
-| Feature | Description | Technical Stack |
-| :--- | :--- | :--- |
-| 🤖 **Multi-Model ML Ensemble** | 4-Model benchmark comparison (Gradient Boosting/XGBoost, Random Forest, Ridge Regression, Decision Trees) | Python, Scikit-learn, NumPy |
-| 🔍 **Explainable AI (SHAP)** | Waterfall feature attribution breakdown showing positive vs negative grade drivers | SHAP cooperative game theory values |
-| 🎛️ **"What-If" Counterfactual Simulator** | Interactive real-time sliders for attendance %, study hours, GPA, sleep, screen time, and stress | React, Lucide Icons, Glassmorphism UI |
-| 🚨 **At-Risk Early Warning Matrix** | Automated cohort risk classification (High, Moderate, Low Risk) with intervention triggers | Risk Scoring Matrix |
-| 🗺️ **Personalized AI Study Path** | Dynamic academic remediation planner generating tailored intervention steps | AI Recommendation Engine |
-| ⚡ **Vercel Serverless API** | Production API endpoint (`/api/predict`) returning JSON inference results | Vercel Serverless Node/JS Functions |
-
----
-
-## 📊 Data Collection Strategy & Data Sources
-
-To train, validate, and benchmark student performance models, this project supports both real-world open-access datasets and a synthetic telemetry generator:
-
-1. **UCI Machine Learning Repository - Student Performance Dataset**
-   - **Attributes**: 33 features including age, parental education, study time, failures, school support, absences, G1, G2, and final G3 grades.
-   - [Download UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
-2. **Kaggle - Student Performance in Exams**
-   - **Attributes**: Gender, ethnicity, parental education, test preparation course, math/reading/writing scores.
-   - [Download Kaggle Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
-3. **Open University Learning Analytics Dataset (OULAD)**
-   - **Attributes**: VLE (Virtual Learning Environment) engagement clicks, assessment submission times, demographic background.
-4. **Included Python Data Pipeline (`backend/data_generator.py`)**
-   - Included in this repository to programmatically generate 3,000+ realistic student records with correlated behavioral, environmental, and academic telemetry.
+1. **Anime & Cyberpunk Intro Motion Graphic**:
+   - Audio initialization prompt, matrix particle canvas, and "Genesis of Tomorrow" neon text reveal.
+2. **Interactive Event Quest Matrix**:
+   - Filterable quest cards across Hackathons, Robo-Wars, Esports, Creative AI Arts, and Star Night with rules, prize money, and registration form.
+3. **Cyberpunk Digital Pass Generator (Gamified NFT/QR Pass)**:
+   - Dynamic user ticket card with user avatar, custom registration ID (`UMU-2026-XXXX`), live QR code, and one-click PNG download (`html2canvas`).
+4. **Marty AI — TechFest Cyber Assistant**:
+   - Floating AI chatbot widget offering instant inquiries on schedules, rules, venue maps, and team contacts.
+5. **Live University Leaderboard & Stats**:
+   - Real-time standings of participating institutions and prize pool meter (₹5,00,000+).
+6. **Campus Venue Radar Map**:
+   - Interactive radar guide to UMU campus arenas (Main Cyber Auditorium, CS Innovation Bay, Mech Cage, Esports Dome).
+7. **Node.js + Express + MongoDB Backend API**:
+   - Serverless REST API endpoints for event registrations, inquiry management, ticket lookup, and DB seeding.
 
 ---
 
-## 📈 Model Benchmarks & Diagnostics
+## 🚀 Tech Stack
 
-| Algorithm | Model Architecture | R² Score | RMSE | MAE | Classification Accuracy | Production Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gradient Boosting (XGBoost Logic)** | Ensemble Boosting | **0.924** | **3.20** | **2.40** | **94.2%** | **PRIMARY PRODUCTION** |
-| **Random Forest Regressor** | Bagging Ensemble | 0.910 | 3.40 | 2.60 | 92.6% | Evaluated |
-| **Ridge Linear Model** | Regularized Linear | 0.882 | 3.90 | 3.10 | 88.4% | Evaluated |
-| **Decision Tree Regressor** | Single Tree | 0.817 | 4.80 | 3.70 | 82.1% | Evaluated |
+- **Frontend**: React 18, Vite, GSAP, Lucide Icons, Tailwind CSS, Framer Motion, HTML5 Canvas, Canvas-Confetti, `qrcode.react`, `html2canvas`.
+- **Backend API**: Node.js, Express.js, Mongoose (MongoDB ORM), CORS, Dotenv.
+- **Database**: MongoDB Atlas (Cloud database).
+- **Deployment**: Configured for Vercel deployment via `vercel.json` and serverless Express API function.
 
 ---
 
-## 🛠️ Local Setup & Development Guide
+## 🛠 Local Setup & Installation
 
 ### Prerequisites
-- Node.js `v18+` & npm `v9+`
-- Python `3.10+`
+- Node.js (v18+)
+- MongoDB Atlas URI (or local MongoDB)
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/Anokhi-7486/student_performance_analysis.git
-cd student_performance_analysis
-```
+### Setup Steps
 
-### 2. Generate Dataset & Train ML Models
 ```bash
-python backend/data_generator.py
-python backend/model_trainer.py
-```
+# Clone the repository
+git clone https://github.com/Anokhi-7486/tech_fest_website.git
+cd tech_fest_website
 
-### 3. Install Dependencies & Start Frontend Dev Server
-```bash
+# Install dependencies
 npm install
+
+# Setup environment variables
+cp .env.example .env
+# Add MONGODB_URI=your_mongodb_atlas_connection_string
+
+# Run local development server
 npm run dev
 ```
+
 Open `http://localhost:3000` in your browser.
 
 ---
 
-## 🚀 Deploying to Vercel (1-Click Deployment)
+## 📡 REST API Endpoints
 
-This repository is optimized out-of-the-box for **Vercel**:
-
-1. Push code to your GitHub repo (`https://github.com/Anokhi-7486/student_performance_analysis`).
-2. Log into [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Import `Anokhi-7486/student_performance_analysis`.
-4. Keep framework setting as **Vite** and click **Deploy**.
-5. Vercel automatically deploys both the **Vite React Frontend** and the **Vercel Serverless API** (`/api/predict`).
-
----
-
-## 💼 15-20 LPA Resume Bullet Points & Interview Guide
-
-### Resume Impact Bullets
-> - *Architected an end-to-end Student Performance Analytics & Prediction Platform serving real-time predictions with **94.2% classification accuracy** across ensemble ML models (Gradient Boosting, Random Forest).*
-> - *Engineered Explainable AI (SHAP feature attributions) to quantify positive/negative academic drivers, reducing algorithmic opacity and generating actionable interventions for educators.*
-> - *Built an interactive "What-If" Counterfactual Simulator using React and Vite, enabling dynamic real-time score trajectory modeling.*
-> - *Deployed serverless API endpoints on Vercel handling multi-feature payload validation and automated risk classification.*
-
-### Interview Q&A Talking Points
-- **Q: How did you handle bias and variance in your models?**
-  - *Answer*: Used 5-Fold Stratified Cross-Validation combined with L2 regularization in linear baselines and learning rate shrinkage (0.05) in Gradient Boosting to avoid overfitting.
-- **Q: Why use SHAP over standard feature importance?**
-  - *Answer*: Traditional Gini importance measures overall split frequency, whereas SHAP values use cooperative game theory to measure feature impact on individual predictions against baseline expectations.
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/health` | API Health & Fest Status |
+| `GET` | `/api/events` | List all fest events |
+| `GET` | `/api/events/:id` | Get details of a specific quest |
+| `POST` | `/api/registrations` | Register participant for an event |
+| `GET` | `/api/registrations/:ticketId` | Lookup digital ticket pass details |
+| `POST` | `/api/contact` | Submit contact helpdesk inquiry |
 
 ---
 
-## 📝 License
+## 🌐 Deploying to Vercel
 
-Distributed under the MIT License. Developed by **Anokhi** for Final Year Capstone & High-Scale Engineering Roles.
->>>>>>> d13b206 (feat: initial release of Student Performance AI & Analytics Platform (15-20 LPA grade))
+1. Push code to your GitHub repo: `https://github.com/Anokhi-7486/tech_fest_website`.
+2. Import project into [Vercel Dashboard](https://vercel.com).
+3. Set Environment Variable: `MONGODB_URI` = `mongodb+srv://<user>:<password>@cluster.mongodb.net/martinovation2026`.
+4. Deploy! Vercel automatically detects `vercel.json` and builds both React SPA and Express Serverless API.
+
+---
+
+© 2026 **Martinovation — Usha Martin University**. All Rights Reserved.
