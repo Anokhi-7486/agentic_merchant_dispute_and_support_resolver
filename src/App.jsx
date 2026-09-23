@@ -4,6 +4,7 @@ import IntroScreen from './components/IntroScreen';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import EventGrid from './components/EventGrid';
+import AnalyticsDashboard from './components/AnalyticsDashboard';
 import Schedule from './components/Schedule';
 import PassGenerator from './components/PassGenerator';
 import Leaderboard from './components/Leaderboard';
@@ -32,6 +33,9 @@ export default function App() {
 
           {/* Hero Section */}
           <Hero onOpenPassGen={handleOpenPassGen} />
+
+          {/* Event Data Instrumentation & Funnel Analytics Dashboard */}
+          <AnalyticsDashboard />
 
           {/* Quest Matrix (Events) */}
           <EventGrid onRegisteredPass={(pass) => setActivePass(pass)} />

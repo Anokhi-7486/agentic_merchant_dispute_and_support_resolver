@@ -1,0 +1,1421 @@
+ticket_id,college,category,registration_timestamp,hour_of_day,reminded,check_in_status,checked_in,time_window
+UMU-2026-1001,Usha Martin University,Cyber Code & Hackathons,2026-09-09 13:08:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1002,Usha Martin University,Star Night & Cultural,2026-09-14 04:05:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1003,Usha Martin University,Star Night & Cultural,2026-09-07 19:44:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1004,Usha Martin University,Star Night & Cultural,2026-09-28 00:51:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1005,Usha Martin University,Esports & Gaming,2026-09-07 22:21:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1006,Usha Martin University,Cyber Code & Hackathons,2026-09-12 18:51:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1007,Usha Martin University,Star Night & Cultural,2026-09-30 15:35:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1008,Ranchi University,Star Night & Cultural,2026-09-12 18:45:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1009,IIT Guwahati,Robo Wars & Mech Bay,2026-09-03 21:55:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1010,NIT Jamshedpur,Creative & AI Arts,2026-09-12 11:22:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1011,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-06 18:15:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1012,KIIT Bhubaneswar,Esports & Gaming,2026-09-21 19:14:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1013,Usha Martin University,Cyber Code & Hackathons,2026-09-02 20:25:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1014,Ranchi University,Star Night & Cultural,2026-09-11 12:31:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1015,Usha Martin University,Creative & AI Arts,2026-09-05 13:35:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1016,Ranchi University,Creative & AI Arts,2026-09-13 15:08:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1017,Ranchi University,Cyber Code & Hackathons,2026-09-05 19:50:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1018,Usha Martin University,Creative & AI Arts,2026-09-15 18:35:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1019,VIT Vellore,Cyber Code & Hackathons,2026-09-18 20:49:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1020,Usha Martin University,Creative & AI Arts,2026-09-01 22:56:00,22,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1021,BIT Sindri,Robo Wars & Mech Bay,2026-09-04 21:19:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1022,BIT Sindri,Robo Wars & Mech Bay,2026-09-25 21:58:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1023,Usha Martin University,Creative & AI Arts,2026-09-30 15:53:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1024,Ranchi University,Robo Wars & Mech Bay,2026-10-01 07:46:00,7,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1025,VIT Vellore,Star Night & Cultural,2026-09-05 19:35:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1026,BIT Sindri,Star Night & Cultural,2026-09-07 21:48:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1027,KIIT Bhubaneswar,Creative & AI Arts,2026-09-21 15:57:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1028,Usha Martin University,Robo Wars & Mech Bay,2026-09-01 18:14:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1029,Usha Martin University,Cyber Code & Hackathons,2026-09-29 04:21:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1030,NIT Jamshedpur,Esports & Gaming,2026-09-07 18:46:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1031,IIT Guwahati,Creative & AI Arts,2026-09-07 08:42:00,8,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1032,BIT Sindri,Creative & AI Arts,2026-09-24 06:41:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1033,IIT Guwahati,Esports & Gaming,2026-09-04 13:12:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1034,Usha Martin University,Robo Wars & Mech Bay,2026-09-08 21:04:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1035,Usha Martin University,Star Night & Cultural,2026-09-21 23:53:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1036,Usha Martin University,Robo Wars & Mech Bay,2026-09-16 17:55:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1037,Usha Martin University,Robo Wars & Mech Bay,2026-09-13 13:50:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1038,NIT Jamshedpur,Star Night & Cultural,2026-09-16 11:18:00,11,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1039,VIT Vellore,Star Night & Cultural,2026-09-02 20:03:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1040,Ranchi University,Star Night & Cultural,2026-09-17 11:32:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1041,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-22 21:25:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1042,Usha Martin University,Star Night & Cultural,2026-09-20 05:05:00,5,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1043,BIT Sindri,Star Night & Cultural,2026-09-30 13:42:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1044,Usha Martin University,Creative & AI Arts,2026-09-21 14:20:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1045,KIIT Bhubaneswar,Star Night & Cultural,2026-09-04 07:13:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1046,Ranchi University,Esports & Gaming,2026-09-29 13:18:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1047,VIT Vellore,Star Night & Cultural,2026-09-20 23:51:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1048,Usha Martin University,Star Night & Cultural,2026-09-22 08:56:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1049,VIT Vellore,Cyber Code & Hackathons,2026-09-05 13:38:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1050,VIT Vellore,Robo Wars & Mech Bay,2026-09-28 13:31:00,13,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1051,Usha Martin University,Cyber Code & Hackathons,2026-09-14 21:02:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1052,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-09 11:28:00,11,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1053,Usha Martin University,Cyber Code & Hackathons,2026-09-29 19:09:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1054,NIT Jamshedpur,Star Night & Cultural,2026-09-14 10:19:00,10,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1055,Ranchi University,Cyber Code & Hackathons,2026-09-07 19:42:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1056,Ranchi University,Star Night & Cultural,2026-09-14 23:47:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1057,Ranchi University,Robo Wars & Mech Bay,2026-09-26 20:56:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1058,IIT Guwahati,Esports & Gaming,2026-09-14 20:55:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1059,Usha Martin University,Cyber Code & Hackathons,2026-09-02 21:14:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1060,Usha Martin University,Creative & AI Arts,2026-09-27 20:14:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1061,Usha Martin University,Robo Wars & Mech Bay,2026-09-09 21:49:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1062,Usha Martin University,Star Night & Cultural,2026-09-27 18:01:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1063,Usha Martin University,Esports & Gaming,2026-10-01 23:02:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1064,VIT Vellore,Esports & Gaming,2026-09-11 16:32:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1065,Usha Martin University,Star Night & Cultural,2026-09-02 19:00:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1066,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-30 14:20:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1067,BIT Sindri,Esports & Gaming,2026-09-22 16:25:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1068,BIT Sindri,Robo Wars & Mech Bay,2026-10-01 15:47:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1069,BIT Sindri,Esports & Gaming,2026-09-27 00:18:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1070,NIT Jamshedpur,Star Night & Cultural,2026-09-11 17:28:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1071,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-10 18:40:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1072,VIT Vellore,Robo Wars & Mech Bay,2026-09-08 20:09:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1073,NIT Jamshedpur,Creative & AI Arts,2026-09-25 07:26:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1074,BIT Sindri,Creative & AI Arts,2026-09-08 10:44:00,10,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1075,IIT Guwahati,Cyber Code & Hackathons,2026-09-08 12:44:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1076,Ranchi University,Robo Wars & Mech Bay,2026-09-04 17:51:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1077,NIT Jamshedpur,Star Night & Cultural,2026-10-01 20:28:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1078,BIT Sindri,Star Night & Cultural,2026-09-06 20:30:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1079,IIT Guwahati,Robo Wars & Mech Bay,2026-09-09 20:33:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1080,BIT Sindri,Esports & Gaming,2026-09-23 14:17:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1081,Usha Martin University,Star Night & Cultural,2026-09-05 13:44:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1082,BIT Sindri,Cyber Code & Hackathons,2026-09-11 18:26:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1083,Usha Martin University,Creative & AI Arts,2026-09-25 18:44:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1084,Usha Martin University,Star Night & Cultural,2026-09-01 22:19:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1085,BIT Sindri,Creative & AI Arts,2026-09-24 18:38:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1086,BIT Sindri,Esports & Gaming,2026-09-01 15:42:00,15,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1087,Ranchi University,Creative & AI Arts,2026-09-20 18:58:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1088,Usha Martin University,Cyber Code & Hackathons,2026-09-14 10:29:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1089,Usha Martin University,Creative & AI Arts,2026-09-15 14:48:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1090,Usha Martin University,Creative & AI Arts,2026-09-03 17:47:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1091,Usha Martin University,Esports & Gaming,2026-09-03 20:41:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1092,Usha Martin University,Robo Wars & Mech Bay,2026-09-01 19:15:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1093,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-07 17:16:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1094,KIIT Bhubaneswar,Star Night & Cultural,2026-09-23 09:52:00,9,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1095,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-30 14:43:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1096,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 21:15:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1097,Ranchi University,Esports & Gaming,2026-09-20 20:50:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1098,NIT Jamshedpur,Creative & AI Arts,2026-09-03 17:21:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1099,Usha Martin University,Creative & AI Arts,2026-10-01 15:57:00,15,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1100,Usha Martin University,Creative & AI Arts,2026-09-17 23:17:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1101,Usha Martin University,Star Night & Cultural,2026-09-28 13:59:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1102,Usha Martin University,Creative & AI Arts,2026-09-15 18:42:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1103,Ranchi University,Creative & AI Arts,2026-09-06 17:22:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1104,VIT Vellore,Star Night & Cultural,2026-09-09 18:33:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1105,BIT Sindri,Creative & AI Arts,2026-09-25 13:30:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1106,Usha Martin University,Cyber Code & Hackathons,2026-09-08 16:15:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1107,BIT Sindri,Esports & Gaming,2026-09-17 15:47:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1108,Usha Martin University,Creative & AI Arts,2026-09-09 13:46:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1109,KIIT Bhubaneswar,Star Night & Cultural,2026-09-23 12:13:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1110,KIIT Bhubaneswar,Star Night & Cultural,2026-09-17 18:06:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1111,Usha Martin University,Esports & Gaming,2026-09-01 19:08:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1112,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-23 22:40:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1113,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-16 17:21:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1114,KIIT Bhubaneswar,Esports & Gaming,2026-09-16 09:04:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1115,NIT Jamshedpur,Star Night & Cultural,2026-09-02 11:51:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1116,Usha Martin University,Robo Wars & Mech Bay,2026-09-25 16:38:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1117,BIT Sindri,Creative & AI Arts,2026-09-15 14:37:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1118,Usha Martin University,Star Night & Cultural,2026-10-01 20:48:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1119,NIT Jamshedpur,Esports & Gaming,2026-09-06 13:35:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1120,BIT Sindri,Creative & AI Arts,2026-09-20 17:02:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1121,VIT Vellore,Esports & Gaming,2026-09-15 07:14:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1122,NIT Jamshedpur,Star Night & Cultural,2026-09-30 12:07:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1123,IIT Guwahati,Esports & Gaming,2026-09-03 06:50:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1124,Ranchi University,Star Night & Cultural,2026-09-15 09:44:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1125,BIT Sindri,Esports & Gaming,2026-09-16 16:38:00,16,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1126,NIT Jamshedpur,Esports & Gaming,2026-09-01 08:43:00,8,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1127,NIT Jamshedpur,Esports & Gaming,2026-09-25 20:30:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1128,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-14 19:31:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1129,Usha Martin University,Creative & AI Arts,2026-09-22 08:10:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1130,Usha Martin University,Creative & AI Arts,2026-10-01 16:48:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1131,Usha Martin University,Esports & Gaming,2026-09-04 23:25:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1132,BIT Sindri,Star Night & Cultural,2026-09-02 12:23:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1133,Usha Martin University,Cyber Code & Hackathons,2026-09-18 10:18:00,10,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1134,Usha Martin University,Creative & AI Arts,2026-09-21 18:15:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1135,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-03 12:53:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1136,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-05 17:45:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1137,BIT Sindri,Esports & Gaming,2026-09-16 23:15:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1138,Usha Martin University,Creative & AI Arts,2026-09-20 18:56:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1139,IIT Guwahati,Esports & Gaming,2026-09-28 16:59:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1140,VIT Vellore,Esports & Gaming,2026-09-27 18:42:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1141,BIT Sindri,Creative & AI Arts,2026-09-12 14:48:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1142,Ranchi University,Esports & Gaming,2026-09-23 13:24:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1143,Usha Martin University,Creative & AI Arts,2026-09-24 17:58:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1144,BIT Sindri,Robo Wars & Mech Bay,2026-09-02 09:37:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1145,Usha Martin University,Creative & AI Arts,2026-09-30 17:46:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1146,Usha Martin University,Robo Wars & Mech Bay,2026-09-26 23:21:00,23,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1147,Ranchi University,Esports & Gaming,2026-09-28 18:20:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1148,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-08 19:58:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1149,BIT Sindri,Cyber Code & Hackathons,2026-09-04 20:45:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1150,Ranchi University,Esports & Gaming,2026-09-02 14:03:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1151,Usha Martin University,Creative & AI Arts,2026-09-17 16:43:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1152,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-13 19:15:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1153,Usha Martin University,Robo Wars & Mech Bay,2026-09-21 13:16:00,13,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1154,Ranchi University,Creative & AI Arts,2026-09-22 18:04:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1155,Usha Martin University,Star Night & Cultural,2026-10-01 16:16:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1156,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-28 17:15:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1157,Usha Martin University,Star Night & Cultural,2026-09-23 14:53:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1158,Ranchi University,Star Night & Cultural,2026-09-25 20:03:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1159,IIT Guwahati,Esports & Gaming,2026-09-08 18:22:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1160,Usha Martin University,Star Night & Cultural,2026-09-25 20:42:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1161,Usha Martin University,Cyber Code & Hackathons,2026-09-15 04:23:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1162,Usha Martin University,Esports & Gaming,2026-09-14 12:08:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1163,IIT Guwahati,Esports & Gaming,2026-09-09 21:30:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1164,IIT Guwahati,Esports & Gaming,2026-09-15 22:09:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1165,KIIT Bhubaneswar,Creative & AI Arts,2026-09-26 18:05:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1166,Usha Martin University,Star Night & Cultural,2026-09-12 19:43:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1167,Usha Martin University,Esports & Gaming,2026-09-08 17:39:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1168,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-21 20:58:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1169,Usha Martin University,Cyber Code & Hackathons,2026-10-01 05:31:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1170,Usha Martin University,Star Night & Cultural,2026-09-15 15:47:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1171,Ranchi University,Robo Wars & Mech Bay,2026-09-21 08:31:00,8,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1172,Usha Martin University,Esports & Gaming,2026-09-12 12:28:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1173,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-12 18:41:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1174,Usha Martin University,Esports & Gaming,2026-09-04 22:52:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1175,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-20 23:03:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1176,IIT Guwahati,Robo Wars & Mech Bay,2026-09-07 07:48:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1177,Usha Martin University,Robo Wars & Mech Bay,2026-09-05 20:38:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1178,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-18 13:11:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1179,Usha Martin University,Cyber Code & Hackathons,2026-09-12 20:15:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1180,Usha Martin University,Esports & Gaming,2026-09-24 16:07:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1181,BIT Sindri,Esports & Gaming,2026-09-04 17:14:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1182,Usha Martin University,Star Night & Cultural,2026-09-21 22:03:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1183,VIT Vellore,Creative & AI Arts,2026-09-16 19:28:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1184,NIT Jamshedpur,Esports & Gaming,2026-09-03 09:39:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1185,BIT Sindri,Star Night & Cultural,2026-09-15 17:27:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1186,Ranchi University,Cyber Code & Hackathons,2026-09-21 21:35:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1187,BIT Sindri,Robo Wars & Mech Bay,2026-09-27 17:26:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1188,NIT Jamshedpur,Esports & Gaming,2026-09-12 22:43:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1189,Usha Martin University,Cyber Code & Hackathons,2026-09-04 20:23:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1190,KIIT Bhubaneswar,Star Night & Cultural,2026-09-18 14:07:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1191,Ranchi University,Creative & AI Arts,2026-09-24 06:18:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1192,BIT Sindri,Star Night & Cultural,2026-09-05 19:14:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1193,Usha Martin University,Star Night & Cultural,2026-09-25 13:14:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1194,NIT Jamshedpur,Star Night & Cultural,2026-09-21 18:38:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1195,VIT Vellore,Esports & Gaming,2026-09-10 21:22:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1196,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-13 07:47:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1197,Usha Martin University,Star Night & Cultural,2026-09-14 17:10:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1198,IIT Guwahati,Esports & Gaming,2026-09-19 18:56:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1199,Usha Martin University,Star Night & Cultural,2026-09-03 13:42:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1200,BIT Sindri,Creative & AI Arts,2026-09-07 20:07:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1201,VIT Vellore,Esports & Gaming,2026-09-19 17:42:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1202,KIIT Bhubaneswar,Creative & AI Arts,2026-09-02 01:19:00,1,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1203,Usha Martin University,Esports & Gaming,2026-09-04 01:47:00,1,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1204,BIT Sindri,Creative & AI Arts,2026-09-08 17:53:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1205,BIT Sindri,Cyber Code & Hackathons,2026-09-15 21:55:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1206,BIT Sindri,Star Night & Cultural,2026-09-21 16:07:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1207,Usha Martin University,Esports & Gaming,2026-10-01 19:53:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1208,Usha Martin University,Cyber Code & Hackathons,2026-09-19 16:05:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1209,Usha Martin University,Esports & Gaming,2026-09-25 11:32:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1210,Ranchi University,Robo Wars & Mech Bay,2026-09-12 15:52:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1211,Usha Martin University,Robo Wars & Mech Bay,2026-09-06 18:48:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1212,BIT Sindri,Creative & AI Arts,2026-09-19 20:28:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1213,Usha Martin University,Esports & Gaming,2026-09-03 17:40:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1214,Usha Martin University,Star Night & Cultural,2026-09-17 07:29:00,7,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1215,IIT Guwahati,Esports & Gaming,2026-09-03 19:54:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1216,Usha Martin University,Star Night & Cultural,2026-09-19 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1217,NIT Jamshedpur,Star Night & Cultural,2026-09-11 18:32:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1218,Usha Martin University,Creative & AI Arts,2026-09-29 21:45:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1219,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 16:28:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1220,Usha Martin University,Esports & Gaming,2026-09-25 15:38:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1221,Usha Martin University,Esports & Gaming,2026-09-04 18:24:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1222,Ranchi University,Star Night & Cultural,2026-09-11 07:42:00,7,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1223,KIIT Bhubaneswar,Esports & Gaming,2026-09-23 19:08:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1224,NIT Jamshedpur,Creative & AI Arts,2026-09-11 20:42:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1225,BIT Sindri,Creative & AI Arts,2026-09-01 15:11:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1226,Usha Martin University,Creative & AI Arts,2026-09-05 11:18:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1227,IIT Guwahati,Star Night & Cultural,2026-09-29 18:42:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1228,Usha Martin University,Star Night & Cultural,2026-09-13 11:11:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1229,BIT Sindri,Cyber Code & Hackathons,2026-09-22 20:28:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1230,Usha Martin University,Creative & AI Arts,2026-09-08 14:51:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1231,Usha Martin University,Robo Wars & Mech Bay,2026-10-01 18:28:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1232,BIT Sindri,Creative & AI Arts,2026-09-14 23:52:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1233,Ranchi University,Robo Wars & Mech Bay,2026-09-02 19:55:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1234,VIT Vellore,Cyber Code & Hackathons,2026-09-17 21:18:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1235,BIT Sindri,Esports & Gaming,2026-09-17 10:27:00,10,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1236,IIT Guwahati,Robo Wars & Mech Bay,2026-09-29 15:01:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1237,Usha Martin University,Star Night & Cultural,2026-09-13 23:23:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1238,IIT Guwahati,Cyber Code & Hackathons,2026-09-21 14:09:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1239,VIT Vellore,Creative & AI Arts,2026-09-05 20:30:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1240,Usha Martin University,Cyber Code & Hackathons,2026-09-07 21:35:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1241,Usha Martin University,Esports & Gaming,2026-09-04 06:26:00,6,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1242,NIT Jamshedpur,Creative & AI Arts,2026-09-01 19:36:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1243,BIT Sindri,Esports & Gaming,2026-09-20 15:36:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1244,BIT Sindri,Cyber Code & Hackathons,2026-09-12 07:33:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1245,Usha Martin University,Creative & AI Arts,2026-09-13 23:16:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1246,Usha Martin University,Cyber Code & Hackathons,2026-09-24 19:06:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1247,BIT Sindri,Esports & Gaming,2026-09-27 19:53:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1248,NIT Jamshedpur,Creative & AI Arts,2026-09-26 10:45:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1249,Usha Martin University,Robo Wars & Mech Bay,2026-09-07 21:20:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1250,BIT Sindri,Star Night & Cultural,2026-09-02 20:12:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1251,Ranchi University,Cyber Code & Hackathons,2026-09-11 13:51:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1252,VIT Vellore,Creative & AI Arts,2026-09-29 22:21:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1253,Usha Martin University,Creative & AI Arts,2026-09-26 18:51:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1254,BIT Sindri,Cyber Code & Hackathons,2026-09-27 12:18:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1255,NIT Jamshedpur,Esports & Gaming,2026-09-10 16:45:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1256,Usha Martin University,Creative & AI Arts,2026-09-02 20:58:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1257,Usha Martin University,Creative & AI Arts,2026-09-26 22:04:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1258,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-05 21:43:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1259,Usha Martin University,Cyber Code & Hackathons,2026-09-21 15:24:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1260,KIIT Bhubaneswar,Creative & AI Arts,2026-09-12 16:04:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1261,Usha Martin University,Creative & AI Arts,2026-09-09 13:07:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1262,BIT Sindri,Creative & AI Arts,2026-09-30 18:16:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1263,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-10 19:31:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1264,BIT Sindri,Cyber Code & Hackathons,2026-09-29 19:05:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1265,BIT Sindri,Cyber Code & Hackathons,2026-09-10 21:54:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1266,IIT Guwahati,Robo Wars & Mech Bay,2026-09-17 12:12:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1267,Usha Martin University,Creative & AI Arts,2026-09-18 18:29:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1268,Usha Martin University,Cyber Code & Hackathons,2026-09-13 23:46:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1269,IIT Guwahati,Creative & AI Arts,2026-09-03 09:20:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1270,Usha Martin University,Star Night & Cultural,2026-09-29 21:35:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1271,BIT Sindri,Robo Wars & Mech Bay,2026-09-30 21:53:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1272,Usha Martin University,Esports & Gaming,2026-09-11 22:14:00,22,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1273,Ranchi University,Star Night & Cultural,2026-09-28 07:12:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1274,NIT Jamshedpur,Esports & Gaming,2026-09-03 17:10:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1275,VIT Vellore,Star Night & Cultural,2026-09-20 14:59:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1276,Usha Martin University,Cyber Code & Hackathons,2026-10-01 19:36:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1277,BIT Sindri,Star Night & Cultural,2026-09-21 04:56:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1278,BIT Sindri,Esports & Gaming,2026-09-26 20:25:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1279,Usha Martin University,Cyber Code & Hackathons,2026-09-14 17:13:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1280,Ranchi University,Esports & Gaming,2026-09-11 20:55:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1281,VIT Vellore,Robo Wars & Mech Bay,2026-09-17 18:20:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1282,BIT Sindri,Esports & Gaming,2026-09-05 08:18:00,8,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1283,Usha Martin University,Creative & AI Arts,2026-09-28 21:52:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1284,Usha Martin University,Esports & Gaming,2026-09-06 17:32:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1285,BIT Sindri,Esports & Gaming,2026-09-03 22:32:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1286,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-02 06:31:00,6,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1287,IIT Guwahati,Cyber Code & Hackathons,2026-09-14 10:16:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1288,Usha Martin University,Esports & Gaming,2026-09-02 18:12:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1289,Usha Martin University,Cyber Code & Hackathons,2026-09-15 20:17:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1290,Usha Martin University,Cyber Code & Hackathons,2026-09-26 23:35:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1291,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-13 17:02:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1292,IIT Guwahati,Esports & Gaming,2026-09-17 17:38:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1293,Usha Martin University,Star Night & Cultural,2026-09-13 23:47:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1294,IIT Guwahati,Star Night & Cultural,2026-09-18 17:36:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1295,Usha Martin University,Cyber Code & Hackathons,2026-09-22 09:26:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1296,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-09 23:50:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1297,BIT Sindri,Star Night & Cultural,2026-09-17 19:39:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1298,Usha Martin University,Robo Wars & Mech Bay,2026-10-01 19:12:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1299,Usha Martin University,Creative & AI Arts,2026-09-23 12:32:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1300,VIT Vellore,Cyber Code & Hackathons,2026-09-17 12:20:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1301,KIIT Bhubaneswar,Esports & Gaming,2026-09-15 21:21:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1302,NIT Jamshedpur,Esports & Gaming,2026-09-07 22:17:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1303,IIT Guwahati,Esports & Gaming,2026-09-23 12:45:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1304,NIT Jamshedpur,Esports & Gaming,2026-09-30 20:17:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1305,Usha Martin University,Star Night & Cultural,2026-09-13 20:49:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1306,KIIT Bhubaneswar,Esports & Gaming,2026-09-03 15:28:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1307,Usha Martin University,Robo Wars & Mech Bay,2026-09-18 13:35:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1308,VIT Vellore,Star Night & Cultural,2026-09-08 13:42:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1309,Usha Martin University,Cyber Code & Hackathons,2026-09-11 19:06:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1310,KIIT Bhubaneswar,Star Night & Cultural,2026-09-06 16:59:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1311,VIT Vellore,Robo Wars & Mech Bay,2026-09-10 14:41:00,14,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1312,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-08 18:46:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1313,BIT Sindri,Robo Wars & Mech Bay,2026-09-27 12:58:00,12,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1314,IIT Guwahati,Creative & AI Arts,2026-09-06 22:55:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1315,Usha Martin University,Cyber Code & Hackathons,2026-09-20 09:21:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1316,BIT Sindri,Star Night & Cultural,2026-09-29 22:54:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1317,Usha Martin University,Cyber Code & Hackathons,2026-09-24 17:16:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1318,IIT Guwahati,Esports & Gaming,2026-09-19 19:12:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1319,IIT Guwahati,Creative & AI Arts,2026-09-17 14:25:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1320,BIT Sindri,Robo Wars & Mech Bay,2026-09-30 13:16:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1321,KIIT Bhubaneswar,Esports & Gaming,2026-09-10 18:36:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1322,VIT Vellore,Esports & Gaming,2026-09-02 19:29:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1323,Ranchi University,Star Night & Cultural,2026-09-29 19:19:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1324,Usha Martin University,Esports & Gaming,2026-09-08 12:08:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1325,Usha Martin University,Star Night & Cultural,2026-09-23 18:30:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1326,Ranchi University,Star Night & Cultural,2026-09-03 18:33:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1327,Usha Martin University,Star Night & Cultural,2026-09-27 18:32:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1328,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 18:07:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1329,Usha Martin University,Creative & AI Arts,2026-09-17 16:03:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1330,BIT Sindri,Creative & AI Arts,2026-09-02 18:43:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1331,Usha Martin University,Creative & AI Arts,2026-09-01 20:37:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1332,VIT Vellore,Esports & Gaming,2026-09-18 23:59:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1333,Usha Martin University,Creative & AI Arts,2026-09-14 12:08:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1334,BIT Sindri,Creative & AI Arts,2026-09-30 21:24:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1335,Usha Martin University,Star Night & Cultural,2026-09-28 15:11:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1336,IIT Guwahati,Robo Wars & Mech Bay,2026-09-25 03:19:00,3,False,NO_SHOW,0,00:00-04:00
+UMU-2026-1337,BIT Sindri,Star Night & Cultural,2026-09-13 20:15:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1338,Usha Martin University,Esports & Gaming,2026-09-29 20:07:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1339,NIT Jamshedpur,Creative & AI Arts,2026-09-30 21:01:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1340,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-15 18:45:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1341,BIT Sindri,Cyber Code & Hackathons,2026-09-08 18:48:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1342,Usha Martin University,Esports & Gaming,2026-09-30 20:20:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1343,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-17 12:19:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1344,Ranchi University,Star Night & Cultural,2026-09-30 12:43:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1345,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-10-01 19:24:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1346,Usha Martin University,Creative & AI Arts,2026-09-13 12:34:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1347,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 10:29:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1348,NIT Jamshedpur,Creative & AI Arts,2026-09-05 15:16:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1349,Ranchi University,Cyber Code & Hackathons,2026-09-28 15:34:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1350,VIT Vellore,Creative & AI Arts,2026-09-20 05:04:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1351,VIT Vellore,Star Night & Cultural,2026-09-18 12:13:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1352,Usha Martin University,Cyber Code & Hackathons,2026-09-07 22:07:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1353,VIT Vellore,Star Night & Cultural,2026-09-13 21:35:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1354,BIT Sindri,Creative & AI Arts,2026-09-21 15:16:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1355,BIT Sindri,Creative & AI Arts,2026-09-26 23:30:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1356,Usha Martin University,Esports & Gaming,2026-09-02 18:14:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1357,KIIT Bhubaneswar,Star Night & Cultural,2026-09-19 20:18:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1358,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 13:35:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1359,KIIT Bhubaneswar,Creative & AI Arts,2026-09-21 20:29:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1360,Usha Martin University,Esports & Gaming,2026-09-24 18:11:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1361,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-22 06:00:00,6,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1362,Usha Martin University,Robo Wars & Mech Bay,2026-09-05 01:32:00,1,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1363,NIT Jamshedpur,Star Night & Cultural,2026-09-30 19:30:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1364,NIT Jamshedpur,Star Night & Cultural,2026-09-01 02:46:00,2,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1365,Usha Martin University,Esports & Gaming,2026-09-27 19:27:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1366,BIT Sindri,Cyber Code & Hackathons,2026-09-08 12:33:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1367,IIT Guwahati,Esports & Gaming,2026-09-03 15:25:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1368,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 21:41:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1369,Usha Martin University,Creative & AI Arts,2026-09-16 06:00:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1370,NIT Jamshedpur,Creative & AI Arts,2026-09-11 18:54:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1371,Usha Martin University,Cyber Code & Hackathons,2026-09-29 21:56:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1372,VIT Vellore,Cyber Code & Hackathons,2026-09-09 21:36:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1373,Usha Martin University,Esports & Gaming,2026-09-07 18:48:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1374,Usha Martin University,Esports & Gaming,2026-09-08 18:54:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1375,Usha Martin University,Star Night & Cultural,2026-09-25 20:50:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1376,Usha Martin University,Esports & Gaming,2026-09-14 13:04:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1377,KIIT Bhubaneswar,Star Night & Cultural,2026-09-13 23:20:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1378,BIT Sindri,Creative & AI Arts,2026-09-12 18:24:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1379,NIT Jamshedpur,Star Night & Cultural,2026-09-03 20:18:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1380,Usha Martin University,Cyber Code & Hackathons,2026-09-13 19:40:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1381,Usha Martin University,Esports & Gaming,2026-09-03 00:19:00,0,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1382,Usha Martin University,Esports & Gaming,2026-09-03 12:28:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1383,Usha Martin University,Cyber Code & Hackathons,2026-09-03 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1384,Usha Martin University,Cyber Code & Hackathons,2026-09-13 20:46:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1385,VIT Vellore,Robo Wars & Mech Bay,2026-09-06 10:19:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1386,Usha Martin University,Cyber Code & Hackathons,2026-09-09 16:30:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1387,VIT Vellore,Robo Wars & Mech Bay,2026-09-16 18:12:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1388,Usha Martin University,Esports & Gaming,2026-09-13 14:39:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1389,BIT Sindri,Esports & Gaming,2026-09-14 20:55:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1390,KIIT Bhubaneswar,Star Night & Cultural,2026-09-07 17:11:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1391,VIT Vellore,Esports & Gaming,2026-09-21 17:36:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1392,IIT Guwahati,Esports & Gaming,2026-09-13 15:59:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1393,Usha Martin University,Star Night & Cultural,2026-09-25 18:46:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1394,BIT Sindri,Robo Wars & Mech Bay,2026-09-10 21:04:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1395,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-08 13:09:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1396,BIT Sindri,Cyber Code & Hackathons,2026-09-20 17:25:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1397,VIT Vellore,Esports & Gaming,2026-09-26 18:40:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1398,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-12 11:39:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1399,KIIT Bhubaneswar,Creative & AI Arts,2026-09-11 23:27:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1400,Usha Martin University,Esports & Gaming,2026-09-24 18:37:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1401,BIT Sindri,Creative & AI Arts,2026-09-22 18:32:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1402,BIT Sindri,Cyber Code & Hackathons,2026-09-10 16:05:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1403,Usha Martin University,Robo Wars & Mech Bay,2026-09-11 17:13:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1404,BIT Sindri,Cyber Code & Hackathons,2026-09-23 17:04:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1405,Usha Martin University,Cyber Code & Hackathons,2026-09-11 19:43:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1406,BIT Sindri,Robo Wars & Mech Bay,2026-09-18 11:35:00,11,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1407,IIT Guwahati,Robo Wars & Mech Bay,2026-09-21 12:40:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1408,Ranchi University,Star Night & Cultural,2026-09-15 18:24:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1409,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 20:04:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1410,Usha Martin University,Star Night & Cultural,2026-09-11 12:07:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1411,BIT Sindri,Creative & AI Arts,2026-09-21 14:24:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1412,Usha Martin University,Esports & Gaming,2026-09-15 19:52:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1413,Usha Martin University,Star Night & Cultural,2026-09-05 14:15:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1414,VIT Vellore,Esports & Gaming,2026-09-17 15:38:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1415,Usha Martin University,Creative & AI Arts,2026-09-21 18:58:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1416,Usha Martin University,Creative & AI Arts,2026-09-06 14:28:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1417,BIT Sindri,Cyber Code & Hackathons,2026-09-07 20:35:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1418,BIT Sindri,Creative & AI Arts,2026-09-27 16:10:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1419,Usha Martin University,Robo Wars & Mech Bay,2026-09-09 12:18:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1420,VIT Vellore,Star Night & Cultural,2026-09-25 17:32:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1421,IIT Guwahati,Esports & Gaming,2026-09-27 23:34:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1422,BIT Sindri,Creative & AI Arts,2026-09-14 08:53:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1423,BIT Sindri,Cyber Code & Hackathons,2026-09-12 21:05:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1424,IIT Guwahati,Cyber Code & Hackathons,2026-09-08 12:47:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1425,NIT Jamshedpur,Star Night & Cultural,2026-09-06 19:50:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1426,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-18 13:34:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1427,Usha Martin University,Esports & Gaming,2026-09-09 22:32:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1428,Ranchi University,Creative & AI Arts,2026-09-09 21:08:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1429,IIT Guwahati,Esports & Gaming,2026-09-25 21:25:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1430,NIT Jamshedpur,Esports & Gaming,2026-09-13 17:40:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1431,VIT Vellore,Esports & Gaming,2026-09-29 15:31:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1432,VIT Vellore,Cyber Code & Hackathons,2026-09-15 19:44:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1433,Usha Martin University,Star Night & Cultural,2026-10-01 16:13:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1434,Usha Martin University,Esports & Gaming,2026-09-19 10:54:00,10,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1435,Usha Martin University,Cyber Code & Hackathons,2026-09-21 20:29:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1436,BIT Sindri,Robo Wars & Mech Bay,2026-09-01 23:27:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1437,Ranchi University,Robo Wars & Mech Bay,2026-09-10 11:59:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1438,Usha Martin University,Esports & Gaming,2026-09-12 19:41:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1439,VIT Vellore,Esports & Gaming,2026-09-25 13:41:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1440,Usha Martin University,Cyber Code & Hackathons,2026-09-03 10:14:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1441,IIT Guwahati,Esports & Gaming,2026-09-28 16:08:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1442,Usha Martin University,Creative & AI Arts,2026-09-26 08:20:00,8,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1443,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 20:08:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1444,Usha Martin University,Star Night & Cultural,2026-09-21 11:22:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1445,Ranchi University,Robo Wars & Mech Bay,2026-09-20 19:55:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1446,Usha Martin University,Cyber Code & Hackathons,2026-09-04 18:24:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1447,IIT Guwahati,Esports & Gaming,2026-09-08 13:05:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1448,VIT Vellore,Star Night & Cultural,2026-09-10 20:44:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1449,Usha Martin University,Esports & Gaming,2026-09-20 18:47:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1450,IIT Guwahati,Cyber Code & Hackathons,2026-09-26 22:31:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1451,NIT Jamshedpur,Creative & AI Arts,2026-09-03 18:00:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1452,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 18:23:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1453,Usha Martin University,Cyber Code & Hackathons,2026-09-03 01:13:00,1,True,NO_SHOW,0,00:00-04:00
+UMU-2026-1454,BIT Sindri,Creative & AI Arts,2026-09-21 19:49:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1455,Usha Martin University,Creative & AI Arts,2026-09-18 18:09:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1456,BIT Sindri,Cyber Code & Hackathons,2026-09-07 23:09:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1457,Usha Martin University,Cyber Code & Hackathons,2026-09-14 20:54:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1458,Ranchi University,Cyber Code & Hackathons,2026-09-04 17:38:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1459,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 10:00:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1460,BIT Sindri,Esports & Gaming,2026-09-26 20:16:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1461,VIT Vellore,Esports & Gaming,2026-09-04 20:01:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1462,BIT Sindri,Esports & Gaming,2026-09-09 19:36:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1463,Usha Martin University,Star Night & Cultural,2026-09-16 21:10:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1464,Ranchi University,Cyber Code & Hackathons,2026-09-22 20:14:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1465,Usha Martin University,Cyber Code & Hackathons,2026-09-16 15:58:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1466,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-30 19:41:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1467,BIT Sindri,Robo Wars & Mech Bay,2026-09-24 14:52:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1468,BIT Sindri,Cyber Code & Hackathons,2026-09-29 06:14:00,6,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1469,Ranchi University,Cyber Code & Hackathons,2026-09-28 14:54:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1470,BIT Sindri,Star Night & Cultural,2026-09-12 12:36:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1471,BIT Sindri,Robo Wars & Mech Bay,2026-09-19 23:49:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1472,VIT Vellore,Star Night & Cultural,2026-09-08 11:59:00,11,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1473,Usha Martin University,Star Night & Cultural,2026-09-27 19:00:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1474,IIT Guwahati,Creative & AI Arts,2026-09-24 14:13:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1475,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-05 19:05:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1476,BIT Sindri,Star Night & Cultural,2026-09-29 15:47:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1477,Usha Martin University,Star Night & Cultural,2026-09-27 15:37:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1478,Usha Martin University,Robo Wars & Mech Bay,2026-09-09 21:59:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1479,Usha Martin University,Esports & Gaming,2026-09-09 13:12:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1480,Usha Martin University,Star Night & Cultural,2026-09-04 11:29:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1481,Usha Martin University,Star Night & Cultural,2026-09-25 12:19:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1482,Usha Martin University,Cyber Code & Hackathons,2026-09-26 19:52:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1483,Usha Martin University,Esports & Gaming,2026-09-23 13:22:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1484,Usha Martin University,Esports & Gaming,2026-09-06 04:25:00,4,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1485,Usha Martin University,Star Night & Cultural,2026-09-15 08:50:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1486,IIT Guwahati,Cyber Code & Hackathons,2026-09-08 10:52:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1487,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-09 21:04:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1488,Ranchi University,Robo Wars & Mech Bay,2026-09-15 20:05:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1489,Usha Martin University,Creative & AI Arts,2026-09-30 18:52:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1490,VIT Vellore,Creative & AI Arts,2026-09-06 15:58:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1491,Ranchi University,Creative & AI Arts,2026-09-02 19:39:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1492,BIT Sindri,Creative & AI Arts,2026-09-18 17:05:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1493,Usha Martin University,Creative & AI Arts,2026-09-29 20:15:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1494,BIT Sindri,Esports & Gaming,2026-09-26 17:58:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1495,Usha Martin University,Robo Wars & Mech Bay,2026-09-20 12:57:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1496,BIT Sindri,Creative & AI Arts,2026-09-25 18:14:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1497,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 20:47:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1498,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-26 15:59:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1499,Usha Martin University,Star Night & Cultural,2026-09-24 19:58:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1500,KIIT Bhubaneswar,Esports & Gaming,2026-09-19 10:12:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1501,BIT Sindri,Robo Wars & Mech Bay,2026-09-03 06:38:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1502,Usha Martin University,Creative & AI Arts,2026-09-30 19:51:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1503,Ranchi University,Robo Wars & Mech Bay,2026-09-28 21:03:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1504,IIT Guwahati,Robo Wars & Mech Bay,2026-09-28 18:23:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1505,NIT Jamshedpur,Creative & AI Arts,2026-09-11 14:08:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1506,IIT Guwahati,Creative & AI Arts,2026-10-01 17:20:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1507,VIT Vellore,Star Night & Cultural,2026-09-30 19:22:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1508,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 19:08:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1509,Usha Martin University,Star Night & Cultural,2026-09-25 23:02:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1510,Usha Martin University,Star Night & Cultural,2026-09-19 08:31:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1511,Usha Martin University,Cyber Code & Hackathons,2026-09-11 11:56:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1512,BIT Sindri,Esports & Gaming,2026-09-09 12:44:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1513,VIT Vellore,Cyber Code & Hackathons,2026-09-02 15:46:00,15,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1514,BIT Sindri,Creative & AI Arts,2026-09-13 15:24:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1515,NIT Jamshedpur,Star Night & Cultural,2026-09-22 13:28:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1516,Usha Martin University,Cyber Code & Hackathons,2026-09-11 13:06:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1517,Usha Martin University,Creative & AI Arts,2026-09-03 18:57:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1518,Ranchi University,Star Night & Cultural,2026-09-23 04:41:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1519,Usha Martin University,Creative & AI Arts,2026-09-04 14:12:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1520,Usha Martin University,Star Night & Cultural,2026-09-10 14:06:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1521,IIT Guwahati,Star Night & Cultural,2026-09-05 06:00:00,6,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1522,BIT Sindri,Star Night & Cultural,2026-09-04 03:10:00,3,True,NO_SHOW,0,00:00-04:00
+UMU-2026-1523,IIT Guwahati,Creative & AI Arts,2026-09-10 20:30:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1524,Usha Martin University,Esports & Gaming,2026-09-18 15:23:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1525,Usha Martin University,Creative & AI Arts,2026-09-15 17:14:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1526,VIT Vellore,Robo Wars & Mech Bay,2026-09-22 08:42:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1527,KIIT Bhubaneswar,Creative & AI Arts,2026-09-19 13:03:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1528,KIIT Bhubaneswar,Creative & AI Arts,2026-09-22 21:30:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1529,Usha Martin University,Cyber Code & Hackathons,2026-09-28 19:32:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1530,Usha Martin University,Creative & AI Arts,2026-09-06 23:51:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1531,Usha Martin University,Creative & AI Arts,2026-09-22 16:52:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1532,Usha Martin University,Esports & Gaming,2026-09-24 21:04:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1533,NIT Jamshedpur,Creative & AI Arts,2026-09-28 13:29:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1534,NIT Jamshedpur,Star Night & Cultural,2026-09-26 16:26:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1535,NIT Jamshedpur,Star Night & Cultural,2026-10-01 22:59:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1536,IIT Guwahati,Cyber Code & Hackathons,2026-09-28 18:22:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1537,NIT Jamshedpur,Creative & AI Arts,2026-09-16 05:17:00,5,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1538,VIT Vellore,Star Night & Cultural,2026-09-13 05:56:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1539,VIT Vellore,Cyber Code & Hackathons,2026-09-30 13:23:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1540,Usha Martin University,Esports & Gaming,2026-09-27 17:44:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1541,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 16:52:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1542,NIT Jamshedpur,Creative & AI Arts,2026-09-03 12:13:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1543,Ranchi University,Star Night & Cultural,2026-09-27 06:50:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1544,BIT Sindri,Star Night & Cultural,2026-09-25 21:56:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1545,IIT Guwahati,Robo Wars & Mech Bay,2026-09-08 04:03:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1546,Usha Martin University,Esports & Gaming,2026-09-15 17:40:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1547,Usha Martin University,Robo Wars & Mech Bay,2026-09-20 16:55:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1548,Usha Martin University,Esports & Gaming,2026-09-27 21:47:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1549,Usha Martin University,Creative & AI Arts,2026-09-28 18:13:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1550,Usha Martin University,Robo Wars & Mech Bay,2026-09-14 18:55:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1551,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-20 20:14:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1552,VIT Vellore,Esports & Gaming,2026-09-23 19:27:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1553,Usha Martin University,Creative & AI Arts,2026-09-15 14:33:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1554,BIT Sindri,Cyber Code & Hackathons,2026-09-22 23:53:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1555,NIT Jamshedpur,Star Night & Cultural,2026-09-10 19:30:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1556,NIT Jamshedpur,Esports & Gaming,2026-09-28 13:41:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1557,VIT Vellore,Star Night & Cultural,2026-09-29 06:54:00,6,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1558,VIT Vellore,Robo Wars & Mech Bay,2026-09-21 17:18:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1559,Usha Martin University,Creative & AI Arts,2026-09-02 18:36:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1560,VIT Vellore,Robo Wars & Mech Bay,2026-09-21 20:58:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1561,IIT Guwahati,Robo Wars & Mech Bay,2026-09-29 18:18:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1562,VIT Vellore,Esports & Gaming,2026-09-18 20:11:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1563,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 21:26:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1564,Usha Martin University,Star Night & Cultural,2026-09-28 09:03:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1565,BIT Sindri,Robo Wars & Mech Bay,2026-09-28 19:33:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1566,Usha Martin University,Robo Wars & Mech Bay,2026-09-07 15:36:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1567,IIT Guwahati,Robo Wars & Mech Bay,2026-09-16 14:11:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1568,BIT Sindri,Cyber Code & Hackathons,2026-09-07 20:10:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1569,Usha Martin University,Cyber Code & Hackathons,2026-09-14 19:25:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1570,Usha Martin University,Creative & AI Arts,2026-09-18 12:23:00,12,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1571,Usha Martin University,Star Night & Cultural,2026-09-22 00:46:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1572,Usha Martin University,Esports & Gaming,2026-09-04 15:37:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1573,Usha Martin University,Cyber Code & Hackathons,2026-09-10 17:33:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1574,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 17:48:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1575,Usha Martin University,Creative & AI Arts,2026-09-08 20:08:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1576,BIT Sindri,Star Night & Cultural,2026-09-04 15:41:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1577,IIT Guwahati,Esports & Gaming,2026-09-20 06:03:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1578,Usha Martin University,Cyber Code & Hackathons,2026-09-04 16:24:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1579,VIT Vellore,Creative & AI Arts,2026-09-07 19:40:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1580,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-09 19:44:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1581,BIT Sindri,Cyber Code & Hackathons,2026-09-20 09:07:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1582,Usha Martin University,Star Night & Cultural,2026-09-09 21:12:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1583,Usha Martin University,Esports & Gaming,2026-09-18 17:13:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1584,Usha Martin University,Cyber Code & Hackathons,2026-09-03 21:53:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1585,IIT Guwahati,Cyber Code & Hackathons,2026-09-03 20:06:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1586,KIIT Bhubaneswar,Creative & AI Arts,2026-09-10 13:03:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1587,Ranchi University,Cyber Code & Hackathons,2026-09-12 20:20:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1588,Ranchi University,Cyber Code & Hackathons,2026-09-29 06:54:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1589,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 16:39:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1590,Usha Martin University,Cyber Code & Hackathons,2026-09-11 12:25:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1591,IIT Guwahati,Esports & Gaming,2026-09-23 21:51:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1592,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 20:54:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1593,BIT Sindri,Star Night & Cultural,2026-09-19 19:11:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1594,Usha Martin University,Star Night & Cultural,2026-09-22 21:46:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1595,Usha Martin University,Creative & AI Arts,2026-09-14 16:04:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1596,VIT Vellore,Cyber Code & Hackathons,2026-09-22 18:47:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1597,BIT Sindri,Esports & Gaming,2026-09-23 19:06:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1598,BIT Sindri,Robo Wars & Mech Bay,2026-09-22 19:24:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1599,Ranchi University,Star Night & Cultural,2026-09-20 06:41:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1600,Ranchi University,Creative & AI Arts,2026-09-28 11:48:00,11,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1601,KIIT Bhubaneswar,Esports & Gaming,2026-09-02 17:35:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1602,Usha Martin University,Robo Wars & Mech Bay,2026-09-15 20:28:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1603,Usha Martin University,Creative & AI Arts,2026-09-16 20:01:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1604,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-01 21:50:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1605,Usha Martin University,Star Night & Cultural,2026-09-22 17:21:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1606,IIT Guwahati,Robo Wars & Mech Bay,2026-09-11 18:39:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1607,VIT Vellore,Esports & Gaming,2026-09-04 08:42:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1608,IIT Guwahati,Esports & Gaming,2026-10-01 20:35:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1609,Ranchi University,Cyber Code & Hackathons,2026-09-16 10:45:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1610,Usha Martin University,Star Night & Cultural,2026-09-04 22:25:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1611,VIT Vellore,Robo Wars & Mech Bay,2026-09-04 20:02:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1612,BIT Sindri,Creative & AI Arts,2026-09-19 22:08:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1613,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-14 21:30:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1614,VIT Vellore,Robo Wars & Mech Bay,2026-09-05 08:42:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1615,BIT Sindri,Creative & AI Arts,2026-09-20 21:48:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1616,KIIT Bhubaneswar,Esports & Gaming,2026-09-15 20:08:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1617,Usha Martin University,Star Night & Cultural,2026-09-23 18:20:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1618,VIT Vellore,Star Night & Cultural,2026-09-22 15:43:00,15,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1619,BIT Sindri,Robo Wars & Mech Bay,2026-09-23 19:45:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1620,BIT Sindri,Star Night & Cultural,2026-09-19 22:45:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1621,Usha Martin University,Star Night & Cultural,2026-09-28 16:00:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1622,Usha Martin University,Robo Wars & Mech Bay,2026-09-02 12:48:00,12,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1623,Usha Martin University,Esports & Gaming,2026-09-02 19:18:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1624,Usha Martin University,Cyber Code & Hackathons,2026-09-15 08:55:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1625,Usha Martin University,Star Night & Cultural,2026-09-17 20:51:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1626,Ranchi University,Cyber Code & Hackathons,2026-09-13 16:50:00,16,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1627,Usha Martin University,Cyber Code & Hackathons,2026-09-09 12:55:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1628,VIT Vellore,Esports & Gaming,2026-09-18 20:12:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1629,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-03 12:11:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1630,Usha Martin University,Creative & AI Arts,2026-09-09 10:37:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1631,VIT Vellore,Creative & AI Arts,2026-09-05 05:59:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1632,IIT Guwahati,Star Night & Cultural,2026-09-10 17:36:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1633,BIT Sindri,Esports & Gaming,2026-10-01 12:04:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1634,BIT Sindri,Star Night & Cultural,2026-09-12 12:13:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1635,Usha Martin University,Esports & Gaming,2026-09-25 19:30:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1636,BIT Sindri,Esports & Gaming,2026-09-29 19:58:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1637,Usha Martin University,Esports & Gaming,2026-09-26 22:24:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1638,Usha Martin University,Esports & Gaming,2026-09-17 20:23:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1639,Ranchi University,Esports & Gaming,2026-09-07 14:05:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1640,BIT Sindri,Star Night & Cultural,2026-09-21 07:42:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1641,IIT Guwahati,Creative & AI Arts,2026-09-07 18:44:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1642,VIT Vellore,Cyber Code & Hackathons,2026-09-05 03:45:00,3,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1643,Usha Martin University,Cyber Code & Hackathons,2026-09-26 13:04:00,13,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1644,Usha Martin University,Creative & AI Arts,2026-09-21 16:20:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1645,BIT Sindri,Cyber Code & Hackathons,2026-09-21 20:04:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1646,Usha Martin University,Cyber Code & Hackathons,2026-09-17 09:50:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1647,VIT Vellore,Esports & Gaming,2026-09-15 15:52:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1648,Usha Martin University,Star Night & Cultural,2026-09-24 15:51:00,15,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1649,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 21:50:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1650,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-18 10:02:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1651,BIT Sindri,Creative & AI Arts,2026-10-01 08:13:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1652,Usha Martin University,Star Night & Cultural,2026-09-06 12:53:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1653,VIT Vellore,Robo Wars & Mech Bay,2026-09-19 21:54:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1654,Usha Martin University,Cyber Code & Hackathons,2026-09-03 13:12:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1655,Usha Martin University,Esports & Gaming,2026-09-21 13:18:00,13,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1656,BIT Sindri,Esports & Gaming,2026-09-11 19:19:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1657,IIT Guwahati,Esports & Gaming,2026-10-01 16:00:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1658,VIT Vellore,Robo Wars & Mech Bay,2026-09-21 16:53:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1659,Ranchi University,Esports & Gaming,2026-09-15 16:49:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1660,Usha Martin University,Cyber Code & Hackathons,2026-09-20 07:17:00,7,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1661,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 19:46:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1662,NIT Jamshedpur,Star Night & Cultural,2026-09-27 18:25:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1663,Usha Martin University,Star Night & Cultural,2026-09-29 23:30:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1664,Ranchi University,Robo Wars & Mech Bay,2026-09-19 20:18:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1665,Usha Martin University,Star Night & Cultural,2026-09-12 17:42:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1666,VIT Vellore,Star Night & Cultural,2026-09-25 18:28:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1667,NIT Jamshedpur,Star Night & Cultural,2026-10-01 10:46:00,10,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1668,Usha Martin University,Cyber Code & Hackathons,2026-09-16 13:16:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1669,BIT Sindri,Robo Wars & Mech Bay,2026-09-26 15:30:00,15,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1670,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-11 08:33:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1671,NIT Jamshedpur,Esports & Gaming,2026-09-19 12:41:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1672,BIT Sindri,Cyber Code & Hackathons,2026-09-13 23:14:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1673,BIT Sindri,Esports & Gaming,2026-09-16 21:00:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1674,Usha Martin University,Robo Wars & Mech Bay,2026-09-21 13:09:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1675,VIT Vellore,Star Night & Cultural,2026-09-04 19:26:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1676,VIT Vellore,Creative & AI Arts,2026-09-16 12:10:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1677,Usha Martin University,Cyber Code & Hackathons,2026-09-19 11:40:00,11,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1678,Usha Martin University,Robo Wars & Mech Bay,2026-09-09 21:33:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1679,NIT Jamshedpur,Star Night & Cultural,2026-09-29 20:42:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1680,BIT Sindri,Robo Wars & Mech Bay,2026-09-16 21:10:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1681,Usha Martin University,Star Night & Cultural,2026-09-19 20:11:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1682,Ranchi University,Esports & Gaming,2026-09-20 18:14:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1683,Usha Martin University,Cyber Code & Hackathons,2026-09-17 21:32:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1684,Usha Martin University,Star Night & Cultural,2026-09-16 21:38:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1685,BIT Sindri,Star Night & Cultural,2026-09-04 08:42:00,8,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1686,IIT Guwahati,Star Night & Cultural,2026-09-29 22:43:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1687,Ranchi University,Esports & Gaming,2026-09-23 18:14:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1688,Usha Martin University,Creative & AI Arts,2026-09-26 20:48:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1689,BIT Sindri,Esports & Gaming,2026-09-08 21:05:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1690,BIT Sindri,Star Night & Cultural,2026-09-07 00:47:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1691,BIT Sindri,Cyber Code & Hackathons,2026-09-13 19:44:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1692,Usha Martin University,Cyber Code & Hackathons,2026-09-21 18:16:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1693,Usha Martin University,Star Night & Cultural,2026-09-22 16:13:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1694,BIT Sindri,Star Night & Cultural,2026-09-12 18:30:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1695,Usha Martin University,Star Night & Cultural,2026-09-23 16:08:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1696,IIT Guwahati,Creative & AI Arts,2026-10-01 11:13:00,11,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1697,NIT Jamshedpur,Star Night & Cultural,2026-09-22 19:10:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1698,IIT Guwahati,Cyber Code & Hackathons,2026-09-27 10:59:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1699,Usha Martin University,Esports & Gaming,2026-09-03 18:46:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1700,NIT Jamshedpur,Creative & AI Arts,2026-09-17 14:38:00,14,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1701,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-15 01:54:00,1,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1702,BIT Sindri,Star Night & Cultural,2026-09-23 13:10:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1703,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-03 23:49:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1704,BIT Sindri,Creative & AI Arts,2026-09-07 18:47:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1705,Usha Martin University,Star Night & Cultural,2026-09-27 18:37:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1706,Usha Martin University,Esports & Gaming,2026-10-01 12:59:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1707,Usha Martin University,Esports & Gaming,2026-09-17 09:04:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1708,IIT Guwahati,Cyber Code & Hackathons,2026-10-01 13:34:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1709,NIT Jamshedpur,Creative & AI Arts,2026-09-25 13:21:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1710,Ranchi University,Star Night & Cultural,2026-09-16 09:04:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1711,VIT Vellore,Robo Wars & Mech Bay,2026-09-08 20:26:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1712,VIT Vellore,Cyber Code & Hackathons,2026-09-09 13:05:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1713,Usha Martin University,Esports & Gaming,2026-09-30 12:20:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1714,Usha Martin University,Star Night & Cultural,2026-10-01 20:59:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1715,Usha Martin University,Robo Wars & Mech Bay,2026-09-08 21:13:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1716,IIT Guwahati,Robo Wars & Mech Bay,2026-09-12 11:06:00,11,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1717,NIT Jamshedpur,Creative & AI Arts,2026-09-25 21:02:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1718,BIT Sindri,Esports & Gaming,2026-09-29 21:55:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1719,Usha Martin University,Star Night & Cultural,2026-09-08 20:08:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1720,BIT Sindri,Creative & AI Arts,2026-09-18 04:22:00,4,False,NO_SHOW,0,00:00-04:00
+UMU-2026-1721,BIT Sindri,Robo Wars & Mech Bay,2026-09-04 19:29:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1722,VIT Vellore,Cyber Code & Hackathons,2026-09-13 18:20:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1723,Usha Martin University,Esports & Gaming,2026-09-09 13:30:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1724,BIT Sindri,Creative & AI Arts,2026-09-14 19:23:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1725,BIT Sindri,Esports & Gaming,2026-09-19 10:36:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1726,IIT Guwahati,Esports & Gaming,2026-09-18 16:24:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1727,BIT Sindri,Robo Wars & Mech Bay,2026-09-01 12:31:00,12,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1728,BIT Sindri,Star Night & Cultural,2026-09-11 20:19:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1729,Usha Martin University,Star Night & Cultural,2026-09-04 19:03:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1730,IIT Guwahati,Creative & AI Arts,2026-09-04 16:21:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1731,NIT Jamshedpur,Star Night & Cultural,2026-09-26 13:01:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1732,Usha Martin University,Star Night & Cultural,2026-09-19 19:34:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1733,Usha Martin University,Esports & Gaming,2026-09-22 18:49:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1734,NIT Jamshedpur,Creative & AI Arts,2026-09-15 19:09:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1735,BIT Sindri,Esports & Gaming,2026-09-20 18:54:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1736,Usha Martin University,Esports & Gaming,2026-09-11 19:45:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1737,Usha Martin University,Creative & AI Arts,2026-09-15 20:23:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1738,Ranchi University,Robo Wars & Mech Bay,2026-09-05 20:42:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1739,Usha Martin University,Cyber Code & Hackathons,2026-09-13 08:04:00,8,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1740,IIT Guwahati,Cyber Code & Hackathons,2026-09-17 20:05:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1741,Usha Martin University,Robo Wars & Mech Bay,2026-09-30 21:19:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1742,BIT Sindri,Esports & Gaming,2026-09-05 10:53:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1743,Ranchi University,Esports & Gaming,2026-09-11 21:29:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1744,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-23 18:37:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1745,BIT Sindri,Star Night & Cultural,2026-09-21 19:19:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1746,IIT Guwahati,Robo Wars & Mech Bay,2026-09-15 14:26:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1747,Usha Martin University,Cyber Code & Hackathons,2026-09-27 20:08:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1748,Usha Martin University,Star Night & Cultural,2026-09-30 17:48:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1749,IIT Guwahati,Creative & AI Arts,2026-09-20 13:00:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1750,BIT Sindri,Star Night & Cultural,2026-09-08 11:47:00,11,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1751,Usha Martin University,Robo Wars & Mech Bay,2026-09-14 19:33:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1752,IIT Guwahati,Star Night & Cultural,2026-09-14 12:04:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1753,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-20 17:44:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1754,Usha Martin University,Cyber Code & Hackathons,2026-09-18 03:06:00,3,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1755,VIT Vellore,Creative & AI Arts,2026-09-08 08:00:00,8,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1756,Usha Martin University,Creative & AI Arts,2026-09-26 17:23:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1757,Usha Martin University,Cyber Code & Hackathons,2026-09-27 20:09:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1758,Usha Martin University,Creative & AI Arts,2026-09-16 12:57:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1759,Usha Martin University,Cyber Code & Hackathons,2026-09-25 19:24:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1760,Usha Martin University,Cyber Code & Hackathons,2026-09-24 20:33:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1761,KIIT Bhubaneswar,Esports & Gaming,2026-09-06 19:02:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1762,Usha Martin University,Esports & Gaming,2026-09-29 06:42:00,6,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1763,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-11 02:50:00,2,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1764,IIT Guwahati,Creative & AI Arts,2026-09-01 23:37:00,23,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1765,Usha Martin University,Robo Wars & Mech Bay,2026-09-03 13:31:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1766,KIIT Bhubaneswar,Esports & Gaming,2026-09-25 19:03:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1767,IIT Guwahati,Star Night & Cultural,2026-09-05 17:20:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1768,VIT Vellore,Creative & AI Arts,2026-09-01 19:22:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1769,BIT Sindri,Cyber Code & Hackathons,2026-09-15 18:34:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1770,BIT Sindri,Robo Wars & Mech Bay,2026-09-11 20:17:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1771,BIT Sindri,Robo Wars & Mech Bay,2026-09-27 13:23:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1772,Usha Martin University,Star Night & Cultural,2026-09-06 21:39:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1773,Usha Martin University,Robo Wars & Mech Bay,2026-09-03 19:34:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1774,VIT Vellore,Creative & AI Arts,2026-09-05 19:20:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1775,Usha Martin University,Cyber Code & Hackathons,2026-09-22 07:53:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1776,Usha Martin University,Cyber Code & Hackathons,2026-09-16 12:02:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1777,NIT Jamshedpur,Star Night & Cultural,2026-09-19 13:23:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1778,Usha Martin University,Cyber Code & Hackathons,2026-09-30 12:31:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1779,Usha Martin University,Cyber Code & Hackathons,2026-09-24 22:26:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1780,IIT Guwahati,Cyber Code & Hackathons,2026-09-09 18:46:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1781,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-10-01 18:06:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1782,Usha Martin University,Robo Wars & Mech Bay,2026-09-22 13:40:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1783,BIT Sindri,Star Night & Cultural,2026-09-04 20:36:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1784,Ranchi University,Creative & AI Arts,2026-09-06 20:35:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1785,BIT Sindri,Robo Wars & Mech Bay,2026-09-20 16:22:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1786,IIT Guwahati,Esports & Gaming,2026-09-14 20:27:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1787,BIT Sindri,Star Night & Cultural,2026-09-13 20:59:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1788,BIT Sindri,Creative & AI Arts,2026-09-13 00:02:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1789,Usha Martin University,Star Night & Cultural,2026-09-29 14:19:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1790,Usha Martin University,Esports & Gaming,2026-09-27 22:52:00,22,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1791,NIT Jamshedpur,Star Night & Cultural,2026-09-30 18:06:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1792,Usha Martin University,Robo Wars & Mech Bay,2026-09-12 21:15:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1793,Usha Martin University,Esports & Gaming,2026-09-13 18:13:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1794,Usha Martin University,Creative & AI Arts,2026-09-27 21:44:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1795,Usha Martin University,Esports & Gaming,2026-09-26 18:05:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1796,Usha Martin University,Esports & Gaming,2026-09-27 16:59:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1797,VIT Vellore,Robo Wars & Mech Bay,2026-09-28 18:00:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1798,Usha Martin University,Star Night & Cultural,2026-09-18 18:20:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1799,KIIT Bhubaneswar,Creative & AI Arts,2026-09-25 18:32:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1800,IIT Guwahati,Esports & Gaming,2026-09-05 10:05:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1801,BIT Sindri,Cyber Code & Hackathons,2026-09-09 08:32:00,8,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1802,VIT Vellore,Robo Wars & Mech Bay,2026-09-16 18:31:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1803,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-24 18:15:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1804,Usha Martin University,Creative & AI Arts,2026-09-30 18:07:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1805,Usha Martin University,Esports & Gaming,2026-09-12 18:01:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1806,NIT Jamshedpur,Esports & Gaming,2026-09-26 16:09:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1807,Usha Martin University,Robo Wars & Mech Bay,2026-09-12 11:46:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1808,Usha Martin University,Cyber Code & Hackathons,2026-09-20 21:55:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1809,Usha Martin University,Cyber Code & Hackathons,2026-09-16 03:13:00,3,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1810,VIT Vellore,Star Night & Cultural,2026-09-18 17:46:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1811,Usha Martin University,Cyber Code & Hackathons,2026-09-29 19:02:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1812,Usha Martin University,Esports & Gaming,2026-09-23 19:03:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1813,Usha Martin University,Cyber Code & Hackathons,2026-09-22 13:54:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1814,Usha Martin University,Cyber Code & Hackathons,2026-09-29 19:14:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1815,Ranchi University,Cyber Code & Hackathons,2026-09-16 21:34:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1816,KIIT Bhubaneswar,Star Night & Cultural,2026-09-18 21:01:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1817,Usha Martin University,Star Night & Cultural,2026-09-16 15:10:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1818,Usha Martin University,Esports & Gaming,2026-09-10 13:32:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1819,Ranchi University,Esports & Gaming,2026-09-29 23:01:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1820,Ranchi University,Esports & Gaming,2026-09-22 10:46:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1821,Ranchi University,Star Night & Cultural,2026-09-22 13:15:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1822,Ranchi University,Esports & Gaming,2026-09-11 16:08:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1823,BIT Sindri,Star Night & Cultural,2026-09-26 12:08:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1824,Ranchi University,Star Night & Cultural,2026-09-14 23:49:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1825,Ranchi University,Star Night & Cultural,2026-09-11 07:34:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1826,VIT Vellore,Robo Wars & Mech Bay,2026-09-25 14:26:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1827,Usha Martin University,Esports & Gaming,2026-09-07 09:11:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1828,NIT Jamshedpur,Star Night & Cultural,2026-09-20 18:14:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1829,Usha Martin University,Cyber Code & Hackathons,2026-09-23 20:08:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1830,Usha Martin University,Esports & Gaming,2026-09-13 17:08:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1831,BIT Sindri,Cyber Code & Hackathons,2026-09-01 21:26:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1832,VIT Vellore,Robo Wars & Mech Bay,2026-09-03 12:28:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-1833,Ranchi University,Creative & AI Arts,2026-09-14 16:02:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1834,NIT Jamshedpur,Creative & AI Arts,2026-09-24 18:34:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1835,BIT Sindri,Creative & AI Arts,2026-09-29 06:15:00,6,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1836,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-17 20:03:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1837,Ranchi University,Creative & AI Arts,2026-09-25 21:29:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1838,Ranchi University,Star Night & Cultural,2026-09-23 18:09:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1839,Usha Martin University,Creative & AI Arts,2026-09-17 09:49:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1840,BIT Sindri,Esports & Gaming,2026-09-06 17:57:00,17,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1841,Usha Martin University,Cyber Code & Hackathons,2026-09-23 19:45:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1842,Usha Martin University,Cyber Code & Hackathons,2026-09-23 16:23:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1843,VIT Vellore,Creative & AI Arts,2026-09-17 18:10:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1844,VIT Vellore,Cyber Code & Hackathons,2026-09-30 14:55:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1845,Usha Martin University,Robo Wars & Mech Bay,2026-09-23 06:19:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1846,Usha Martin University,Creative & AI Arts,2026-09-06 09:08:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1847,Usha Martin University,Esports & Gaming,2026-09-16 21:34:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1848,Usha Martin University,Creative & AI Arts,2026-09-19 19:29:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1849,NIT Jamshedpur,Star Night & Cultural,2026-09-08 21:17:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1850,Usha Martin University,Robo Wars & Mech Bay,2026-09-12 05:54:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1851,Usha Martin University,Star Night & Cultural,2026-09-30 08:06:00,8,False,NO_SHOW,0,04:00-08:00
+UMU-2026-1852,VIT Vellore,Robo Wars & Mech Bay,2026-09-20 19:44:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1853,Usha Martin University,Star Night & Cultural,2026-09-02 08:19:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1854,IIT Guwahati,Creative & AI Arts,2026-09-25 16:35:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1855,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 13:33:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1856,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-04 18:40:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1857,KIIT Bhubaneswar,Star Night & Cultural,2026-09-23 14:38:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1858,KIIT Bhubaneswar,Star Night & Cultural,2026-09-12 21:39:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1859,BIT Sindri,Creative & AI Arts,2026-09-06 21:14:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-1860,Usha Martin University,Cyber Code & Hackathons,2026-09-15 19:07:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1861,BIT Sindri,Creative & AI Arts,2026-09-11 15:51:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1862,VIT Vellore,Robo Wars & Mech Bay,2026-09-09 20:19:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1863,VIT Vellore,Esports & Gaming,2026-09-04 19:21:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1864,KIIT Bhubaneswar,Star Night & Cultural,2026-09-27 12:21:00,12,True,NO_SHOW,0,08:00-12:00
+UMU-2026-1865,Ranchi University,Creative & AI Arts,2026-09-26 05:08:00,5,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1866,Ranchi University,Creative & AI Arts,2026-09-18 21:29:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1867,IIT Guwahati,Cyber Code & Hackathons,2026-09-10 18:43:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1868,Usha Martin University,Cyber Code & Hackathons,2026-09-22 14:58:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1869,Usha Martin University,Robo Wars & Mech Bay,2026-09-01 15:24:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1870,Usha Martin University,Creative & AI Arts,2026-09-04 21:48:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1871,VIT Vellore,Esports & Gaming,2026-09-09 16:31:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1872,Usha Martin University,Esports & Gaming,2026-09-10 12:23:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1873,BIT Sindri,Cyber Code & Hackathons,2026-09-01 20:57:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1874,VIT Vellore,Creative & AI Arts,2026-09-17 14:20:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1875,IIT Guwahati,Cyber Code & Hackathons,2026-10-01 18:08:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1876,Usha Martin University,Creative & AI Arts,2026-09-28 18:00:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1877,Ranchi University,Star Night & Cultural,2026-09-11 17:02:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1878,Usha Martin University,Esports & Gaming,2026-09-25 14:57:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1879,Usha Martin University,Robo Wars & Mech Bay,2026-09-18 14:28:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1880,Usha Martin University,Robo Wars & Mech Bay,2026-09-01 22:35:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1881,BIT Sindri,Esports & Gaming,2026-09-09 10:45:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1882,Usha Martin University,Robo Wars & Mech Bay,2026-09-20 21:34:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1883,BIT Sindri,Cyber Code & Hackathons,2026-09-22 06:24:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1884,Usha Martin University,Creative & AI Arts,2026-09-20 21:40:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1885,Usha Martin University,Esports & Gaming,2026-09-07 19:42:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1886,NIT Jamshedpur,Creative & AI Arts,2026-09-03 20:58:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1887,VIT Vellore,Esports & Gaming,2026-09-23 20:30:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1888,Ranchi University,Robo Wars & Mech Bay,2026-09-20 13:23:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1889,IIT Guwahati,Esports & Gaming,2026-09-29 14:31:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1890,Usha Martin University,Cyber Code & Hackathons,2026-09-15 21:18:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1891,BIT Sindri,Robo Wars & Mech Bay,2026-09-13 20:50:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1892,IIT Guwahati,Cyber Code & Hackathons,2026-09-18 17:37:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1893,BIT Sindri,Robo Wars & Mech Bay,2026-09-16 15:21:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1894,BIT Sindri,Star Night & Cultural,2026-09-14 18:21:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1895,VIT Vellore,Cyber Code & Hackathons,2026-09-23 18:31:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1896,Usha Martin University,Creative & AI Arts,2026-09-04 20:11:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1897,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-22 20:49:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1898,Usha Martin University,Cyber Code & Hackathons,2026-09-27 10:37:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-1899,BIT Sindri,Robo Wars & Mech Bay,2026-09-10 15:36:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1900,Usha Martin University,Esports & Gaming,2026-09-26 21:19:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1901,KIIT Bhubaneswar,Esports & Gaming,2026-09-19 01:32:00,1,False,NO_SHOW,0,00:00-04:00
+UMU-2026-1902,Usha Martin University,Esports & Gaming,2026-09-29 18:03:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1903,Usha Martin University,Esports & Gaming,2026-09-10 21:15:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-1904,NIT Jamshedpur,Creative & AI Arts,2026-09-23 15:24:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1905,BIT Sindri,Robo Wars & Mech Bay,2026-09-07 18:53:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1906,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 19:08:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1907,Usha Martin University,Cyber Code & Hackathons,2026-09-29 17:27:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1908,Ranchi University,Creative & AI Arts,2026-09-29 20:38:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1909,BIT Sindri,Creative & AI Arts,2026-09-18 20:24:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1910,NIT Jamshedpur,Creative & AI Arts,2026-09-19 17:46:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1911,BIT Sindri,Esports & Gaming,2026-09-18 18:02:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1912,Usha Martin University,Esports & Gaming,2026-09-16 22:05:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1913,KIIT Bhubaneswar,Star Night & Cultural,2026-09-25 20:29:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1914,Usha Martin University,Star Night & Cultural,2026-09-16 19:42:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1915,IIT Guwahati,Star Night & Cultural,2026-09-10 19:57:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1916,BIT Sindri,Cyber Code & Hackathons,2026-09-17 21:36:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1917,Usha Martin University,Esports & Gaming,2026-09-02 19:38:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1918,Usha Martin University,Star Night & Cultural,2026-09-21 17:10:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1919,IIT Guwahati,Esports & Gaming,2026-09-20 03:31:00,3,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1920,Ranchi University,Cyber Code & Hackathons,2026-09-09 13:39:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1921,Usha Martin University,Esports & Gaming,2026-09-04 18:58:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1922,IIT Guwahati,Esports & Gaming,2026-09-09 20:15:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1923,Ranchi University,Star Night & Cultural,2026-09-11 23:09:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1924,IIT Guwahati,Creative & AI Arts,2026-09-08 19:46:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1925,Usha Martin University,Esports & Gaming,2026-09-09 20:07:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1926,BIT Sindri,Creative & AI Arts,2026-09-16 20:48:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1927,BIT Sindri,Creative & AI Arts,2026-09-05 18:27:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1928,Usha Martin University,Creative & AI Arts,2026-09-11 22:43:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1929,NIT Jamshedpur,Star Night & Cultural,2026-10-01 21:39:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1930,IIT Guwahati,Esports & Gaming,2026-09-09 19:25:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1931,VIT Vellore,Robo Wars & Mech Bay,2026-09-19 20:33:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1932,Usha Martin University,Robo Wars & Mech Bay,2026-09-01 19:53:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1933,BIT Sindri,Cyber Code & Hackathons,2026-09-22 16:14:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1934,Usha Martin University,Cyber Code & Hackathons,2026-09-03 06:38:00,6,True,NO_SHOW,0,04:00-08:00
+UMU-2026-1935,VIT Vellore,Cyber Code & Hackathons,2026-09-04 08:38:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1936,IIT Guwahati,Star Night & Cultural,2026-09-06 21:44:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1937,NIT Jamshedpur,Creative & AI Arts,2026-09-03 19:59:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1938,Usha Martin University,Esports & Gaming,2026-09-25 07:49:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1939,KIIT Bhubaneswar,Esports & Gaming,2026-09-09 22:16:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1940,KIIT Bhubaneswar,Creative & AI Arts,2026-09-07 18:11:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1941,VIT Vellore,Star Night & Cultural,2026-09-07 19:06:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1942,Usha Martin University,Cyber Code & Hackathons,2026-09-03 18:16:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1943,Usha Martin University,Creative & AI Arts,2026-09-21 00:02:00,0,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1944,Ranchi University,Esports & Gaming,2026-09-19 00:45:00,0,False,CHECKED_IN,1,00:00-04:00
+UMU-2026-1945,IIT Guwahati,Creative & AI Arts,2026-09-25 20:04:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1946,Usha Martin University,Creative & AI Arts,2026-09-18 22:22:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1947,Usha Martin University,Creative & AI Arts,2026-10-01 19:23:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1948,VIT Vellore,Creative & AI Arts,2026-09-10 19:11:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1949,Usha Martin University,Robo Wars & Mech Bay,2026-09-13 21:40:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1950,VIT Vellore,Creative & AI Arts,2026-09-05 05:01:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1951,IIT Guwahati,Cyber Code & Hackathons,2026-09-21 14:34:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-1952,Usha Martin University,Cyber Code & Hackathons,2026-09-02 14:46:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1953,IIT Guwahati,Robo Wars & Mech Bay,2026-09-22 18:43:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1954,Ranchi University,Robo Wars & Mech Bay,2026-09-02 20:31:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1955,Usha Martin University,Star Night & Cultural,2026-09-23 19:00:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1956,IIT Guwahati,Esports & Gaming,2026-09-04 17:10:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1957,Usha Martin University,Cyber Code & Hackathons,2026-09-20 20:14:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1958,Usha Martin University,Creative & AI Arts,2026-09-27 23:43:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-1959,BIT Sindri,Star Night & Cultural,2026-09-11 21:50:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1960,Usha Martin University,Star Night & Cultural,2026-09-03 09:09:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1961,NIT Jamshedpur,Esports & Gaming,2026-09-15 13:37:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1962,Usha Martin University,Star Night & Cultural,2026-09-06 02:31:00,2,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1963,Ranchi University,Robo Wars & Mech Bay,2026-09-23 19:56:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1964,VIT Vellore,Creative & AI Arts,2026-09-07 10:17:00,10,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1965,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-02 18:45:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1966,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-26 14:26:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1967,Usha Martin University,Robo Wars & Mech Bay,2026-09-17 23:39:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1968,BIT Sindri,Star Night & Cultural,2026-09-15 20:42:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1969,Usha Martin University,Robo Wars & Mech Bay,2026-09-05 19:58:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1970,VIT Vellore,Robo Wars & Mech Bay,2026-09-02 06:23:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-1971,Usha Martin University,Esports & Gaming,2026-09-26 21:29:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1972,Ranchi University,Cyber Code & Hackathons,2026-09-06 11:01:00,11,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-1973,Ranchi University,Cyber Code & Hackathons,2026-09-24 16:37:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1974,Usha Martin University,Esports & Gaming,2026-09-04 14:06:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1975,Usha Martin University,Robo Wars & Mech Bay,2026-09-08 07:37:00,7,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-1976,Usha Martin University,Creative & AI Arts,2026-09-30 18:11:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1977,VIT Vellore,Creative & AI Arts,2026-09-21 15:17:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1978,VIT Vellore,Cyber Code & Hackathons,2026-09-02 13:07:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1979,VIT Vellore,Robo Wars & Mech Bay,2026-09-08 21:38:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1980,Ranchi University,Star Night & Cultural,2026-09-19 23:54:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1981,BIT Sindri,Star Night & Cultural,2026-09-07 18:53:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1982,VIT Vellore,Creative & AI Arts,2026-09-08 13:27:00,13,True,NO_SHOW,0,12:00-16:00
+UMU-2026-1983,KIIT Bhubaneswar,Star Night & Cultural,2026-09-30 18:00:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1984,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-24 20:02:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1985,IIT Guwahati,Creative & AI Arts,2026-09-23 20:28:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-1986,VIT Vellore,Star Night & Cultural,2026-09-23 20:13:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1987,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-03 02:42:00,2,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-1988,Ranchi University,Creative & AI Arts,2026-09-24 18:29:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-1989,Usha Martin University,Creative & AI Arts,2026-09-28 15:29:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1990,Usha Martin University,Cyber Code & Hackathons,2026-09-23 14:02:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-1991,VIT Vellore,Esports & Gaming,2026-09-20 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1992,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-11 20:03:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1993,Usha Martin University,Cyber Code & Hackathons,2026-09-15 19:23:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1994,VIT Vellore,Star Night & Cultural,2026-09-18 19:13:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-1995,BIT Sindri,Robo Wars & Mech Bay,2026-09-21 17:48:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1996,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 13:43:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-1997,Usha Martin University,Cyber Code & Hackathons,2026-09-15 17:33:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-1998,VIT Vellore,Star Night & Cultural,2026-09-18 21:28:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-1999,Usha Martin University,Cyber Code & Hackathons,2026-09-29 17:05:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2000,KIIT Bhubaneswar,Esports & Gaming,2026-09-03 09:17:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2001,Usha Martin University,Creative & AI Arts,2026-09-07 18:40:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2002,KIIT Bhubaneswar,Star Night & Cultural,2026-09-16 15:28:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2003,Usha Martin University,Cyber Code & Hackathons,2026-09-26 13:33:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2004,NIT Jamshedpur,Esports & Gaming,2026-09-26 14:37:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2005,Usha Martin University,Star Night & Cultural,2026-09-26 14:50:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2006,KIIT Bhubaneswar,Esports & Gaming,2026-09-25 21:09:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2007,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-06 19:18:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2008,Usha Martin University,Robo Wars & Mech Bay,2026-09-04 05:20:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2009,Usha Martin University,Esports & Gaming,2026-09-18 19:42:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2010,Usha Martin University,Robo Wars & Mech Bay,2026-09-18 23:34:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2011,BIT Sindri,Cyber Code & Hackathons,2026-09-16 20:29:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2012,KIIT Bhubaneswar,Star Night & Cultural,2026-09-11 19:18:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2013,NIT Jamshedpur,Star Night & Cultural,2026-09-26 18:58:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2014,VIT Vellore,Cyber Code & Hackathons,2026-09-29 05:43:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2015,NIT Jamshedpur,Creative & AI Arts,2026-09-08 16:05:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2016,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-08 20:49:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2017,BIT Sindri,Cyber Code & Hackathons,2026-09-15 19:05:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2018,NIT Jamshedpur,Esports & Gaming,2026-09-17 22:58:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2019,Usha Martin University,Creative & AI Arts,2026-09-12 01:22:00,1,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2020,Ranchi University,Creative & AI Arts,2026-09-03 12:56:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2021,IIT Guwahati,Creative & AI Arts,2026-09-10 11:46:00,11,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2022,Usha Martin University,Creative & AI Arts,2026-09-19 18:09:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2023,KIIT Bhubaneswar,Star Night & Cultural,2026-09-03 22:37:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2024,NIT Jamshedpur,Creative & AI Arts,2026-09-09 16:35:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2025,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 15:35:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2026,IIT Guwahati,Esports & Gaming,2026-09-10 17:47:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2027,Usha Martin University,Cyber Code & Hackathons,2026-09-10 22:53:00,22,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2028,BIT Sindri,Esports & Gaming,2026-09-16 21:41:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2029,BIT Sindri,Esports & Gaming,2026-09-03 18:23:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2030,NIT Jamshedpur,Esports & Gaming,2026-09-16 23:52:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2031,Usha Martin University,Star Night & Cultural,2026-09-09 11:03:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2032,Usha Martin University,Robo Wars & Mech Bay,2026-09-02 13:26:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2033,BIT Sindri,Esports & Gaming,2026-09-30 07:12:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2034,VIT Vellore,Star Night & Cultural,2026-09-18 14:20:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2035,Usha Martin University,Esports & Gaming,2026-09-19 15:09:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2036,Usha Martin University,Esports & Gaming,2026-09-16 16:58:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2037,BIT Sindri,Robo Wars & Mech Bay,2026-09-27 12:57:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2038,Usha Martin University,Cyber Code & Hackathons,2026-09-05 21:30:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2039,Usha Martin University,Esports & Gaming,2026-09-15 21:38:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2040,Usha Martin University,Esports & Gaming,2026-09-27 09:08:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2041,Usha Martin University,Esports & Gaming,2026-09-05 23:27:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2042,VIT Vellore,Creative & AI Arts,2026-09-02 12:02:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2043,Usha Martin University,Esports & Gaming,2026-09-10 19:48:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2044,Usha Martin University,Star Night & Cultural,2026-09-29 12:42:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2045,IIT Guwahati,Robo Wars & Mech Bay,2026-10-01 13:37:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2046,IIT Guwahati,Star Night & Cultural,2026-09-20 13:36:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2047,VIT Vellore,Star Night & Cultural,2026-09-17 12:12:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2048,Usha Martin University,Star Night & Cultural,2026-09-24 08:13:00,8,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-2049,Usha Martin University,Star Night & Cultural,2026-09-22 22:11:00,22,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2050,Usha Martin University,Creative & AI Arts,2026-09-08 16:48:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2051,BIT Sindri,Cyber Code & Hackathons,2026-09-16 20:45:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2052,Usha Martin University,Cyber Code & Hackathons,2026-09-16 09:18:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2053,VIT Vellore,Esports & Gaming,2026-09-27 16:35:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2054,Usha Martin University,Creative & AI Arts,2026-09-03 21:51:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2055,Usha Martin University,Esports & Gaming,2026-09-22 17:06:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2056,Usha Martin University,Cyber Code & Hackathons,2026-09-13 16:37:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2057,Usha Martin University,Robo Wars & Mech Bay,2026-09-07 15:38:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2058,VIT Vellore,Creative & AI Arts,2026-09-09 20:49:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2059,Usha Martin University,Creative & AI Arts,2026-09-22 18:25:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2060,VIT Vellore,Robo Wars & Mech Bay,2026-09-04 09:31:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2061,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 06:04:00,6,False,NO_SHOW,0,04:00-08:00
+UMU-2026-2062,Usha Martin University,Robo Wars & Mech Bay,2026-09-22 14:19:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2063,VIT Vellore,Star Night & Cultural,2026-09-26 17:18:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2064,BIT Sindri,Esports & Gaming,2026-09-26 21:34:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2065,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-29 21:24:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2066,BIT Sindri,Creative & AI Arts,2026-09-02 04:35:00,4,True,NO_SHOW,0,00:00-04:00
+UMU-2026-2067,BIT Sindri,Robo Wars & Mech Bay,2026-09-05 14:24:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2068,VIT Vellore,Star Night & Cultural,2026-09-22 18:34:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2069,BIT Sindri,Robo Wars & Mech Bay,2026-09-13 13:37:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2070,VIT Vellore,Esports & Gaming,2026-09-10 14:01:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2071,Usha Martin University,Esports & Gaming,2026-09-24 18:48:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2072,Usha Martin University,Creative & AI Arts,2026-09-12 16:03:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2073,NIT Jamshedpur,Esports & Gaming,2026-09-30 19:55:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2074,Usha Martin University,Robo Wars & Mech Bay,2026-09-11 05:42:00,5,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-2075,Usha Martin University,Creative & AI Arts,2026-09-23 17:01:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2076,Usha Martin University,Creative & AI Arts,2026-09-04 20:06:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2077,IIT Guwahati,Star Night & Cultural,2026-09-22 15:39:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2078,Usha Martin University,Creative & AI Arts,2026-09-21 21:50:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2079,Usha Martin University,Star Night & Cultural,2026-09-09 06:36:00,6,False,NO_SHOW,0,04:00-08:00
+UMU-2026-2080,VIT Vellore,Star Night & Cultural,2026-09-03 19:37:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2081,Usha Martin University,Esports & Gaming,2026-09-26 18:27:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2082,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-10 17:19:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2083,Usha Martin University,Esports & Gaming,2026-09-13 13:32:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2084,Usha Martin University,Star Night & Cultural,2026-09-01 19:33:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2085,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-27 20:29:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2086,IIT Guwahati,Star Night & Cultural,2026-09-28 20:27:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2087,BIT Sindri,Esports & Gaming,2026-09-08 11:43:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2088,Usha Martin University,Creative & AI Arts,2026-09-27 21:40:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2089,IIT Guwahati,Esports & Gaming,2026-09-21 11:43:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2090,Usha Martin University,Cyber Code & Hackathons,2026-09-01 13:52:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2091,KIIT Bhubaneswar,Star Night & Cultural,2026-09-14 19:02:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2092,Usha Martin University,Robo Wars & Mech Bay,2026-09-26 20:42:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2093,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-16 20:03:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2094,Ranchi University,Esports & Gaming,2026-09-29 22:57:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2095,Usha Martin University,Cyber Code & Hackathons,2026-09-27 20:08:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2096,KIIT Bhubaneswar,Star Night & Cultural,2026-09-17 19:37:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2097,Usha Martin University,Cyber Code & Hackathons,2026-09-04 20:20:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2098,IIT Guwahati,Creative & AI Arts,2026-09-24 13:27:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2099,Usha Martin University,Robo Wars & Mech Bay,2026-09-09 16:16:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2100,VIT Vellore,Esports & Gaming,2026-09-04 14:27:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2101,Ranchi University,Esports & Gaming,2026-09-30 10:30:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2102,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-29 18:53:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2103,Usha Martin University,Robo Wars & Mech Bay,2026-09-13 14:44:00,14,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2104,BIT Sindri,Cyber Code & Hackathons,2026-09-08 21:24:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2105,Ranchi University,Creative & AI Arts,2026-09-30 13:05:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2106,Ranchi University,Robo Wars & Mech Bay,2026-09-21 14:51:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2107,Ranchi University,Esports & Gaming,2026-09-27 20:31:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2108,VIT Vellore,Esports & Gaming,2026-09-29 21:06:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2109,Usha Martin University,Star Night & Cultural,2026-09-14 18:52:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2110,VIT Vellore,Cyber Code & Hackathons,2026-09-21 19:40:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2111,Usha Martin University,Robo Wars & Mech Bay,2026-09-07 19:20:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2112,BIT Sindri,Robo Wars & Mech Bay,2026-09-25 21:48:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2113,IIT Guwahati,Creative & AI Arts,2026-09-11 17:55:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2114,IIT Guwahati,Star Night & Cultural,2026-09-26 14:05:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2115,Ranchi University,Creative & AI Arts,2026-10-01 21:36:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2116,Ranchi University,Cyber Code & Hackathons,2026-09-21 18:14:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2117,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 11:25:00,11,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2118,Usha Martin University,Robo Wars & Mech Bay,2026-09-12 12:36:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2119,BIT Sindri,Star Night & Cultural,2026-09-30 21:52:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2120,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 20:17:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2121,Usha Martin University,Creative & AI Arts,2026-09-28 12:13:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2122,BIT Sindri,Robo Wars & Mech Bay,2026-09-14 20:01:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2123,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-30 13:37:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2124,Usha Martin University,Creative & AI Arts,2026-09-11 23:25:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2125,VIT Vellore,Creative & AI Arts,2026-09-09 07:35:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2126,BIT Sindri,Robo Wars & Mech Bay,2026-09-12 23:42:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2127,NIT Jamshedpur,Star Night & Cultural,2026-09-10 23:42:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2128,Usha Martin University,Star Night & Cultural,2026-09-06 13:32:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2129,Usha Martin University,Creative & AI Arts,2026-09-11 19:27:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2130,Usha Martin University,Esports & Gaming,2026-09-05 17:53:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2131,Usha Martin University,Creative & AI Arts,2026-09-29 13:53:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2132,Ranchi University,Creative & AI Arts,2026-09-11 20:31:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2133,Usha Martin University,Creative & AI Arts,2026-09-05 06:11:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2134,VIT Vellore,Robo Wars & Mech Bay,2026-09-14 09:57:00,9,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2135,KIIT Bhubaneswar,Esports & Gaming,2026-09-18 17:31:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2136,Usha Martin University,Robo Wars & Mech Bay,2026-09-03 12:18:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2137,IIT Guwahati,Star Night & Cultural,2026-09-19 21:37:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2138,BIT Sindri,Cyber Code & Hackathons,2026-09-19 12:58:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2139,VIT Vellore,Creative & AI Arts,2026-09-29 14:18:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2140,Ranchi University,Star Night & Cultural,2026-09-04 21:09:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2141,BIT Sindri,Creative & AI Arts,2026-10-01 13:42:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2142,NIT Jamshedpur,Cyber Code & Hackathons,2026-10-01 17:46:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2143,IIT Guwahati,Cyber Code & Hackathons,2026-09-10 14:03:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2144,Usha Martin University,Star Night & Cultural,2026-09-13 13:15:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2145,Usha Martin University,Robo Wars & Mech Bay,2026-09-25 16:41:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2146,IIT Guwahati,Creative & AI Arts,2026-09-24 20:19:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2147,IIT Guwahati,Cyber Code & Hackathons,2026-09-17 12:28:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2148,NIT Jamshedpur,Star Night & Cultural,2026-09-03 20:51:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2149,NIT Jamshedpur,Creative & AI Arts,2026-09-03 05:21:00,5,False,NO_SHOW,0,04:00-08:00
+UMU-2026-2150,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-17 19:33:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2151,Usha Martin University,Creative & AI Arts,2026-09-26 17:09:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2152,IIT Guwahati,Esports & Gaming,2026-09-17 16:36:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2153,BIT Sindri,Cyber Code & Hackathons,2026-09-17 16:06:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2154,IIT Guwahati,Star Night & Cultural,2026-09-12 13:05:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2155,Usha Martin University,Creative & AI Arts,2026-09-06 21:02:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2156,Usha Martin University,Esports & Gaming,2026-09-24 17:42:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2157,Usha Martin University,Esports & Gaming,2026-09-30 21:11:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2158,Usha Martin University,Star Night & Cultural,2026-09-22 09:34:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2159,Usha Martin University,Cyber Code & Hackathons,2026-09-21 17:44:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2160,VIT Vellore,Star Night & Cultural,2026-09-10 19:39:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2161,IIT Guwahati,Creative & AI Arts,2026-09-03 09:00:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2162,VIT Vellore,Cyber Code & Hackathons,2026-09-07 21:13:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2163,BIT Sindri,Robo Wars & Mech Bay,2026-09-21 21:34:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2164,Usha Martin University,Creative & AI Arts,2026-09-14 03:10:00,3,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2165,KIIT Bhubaneswar,Creative & AI Arts,2026-09-16 02:28:00,2,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2166,IIT Guwahati,Star Night & Cultural,2026-09-13 06:00:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2167,KIIT Bhubaneswar,Creative & AI Arts,2026-09-28 17:37:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2168,BIT Sindri,Creative & AI Arts,2026-09-19 20:59:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2169,BIT Sindri,Cyber Code & Hackathons,2026-09-14 18:35:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2170,Ranchi University,Creative & AI Arts,2026-09-04 17:41:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2171,Usha Martin University,Creative & AI Arts,2026-09-10 20:30:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2172,Usha Martin University,Star Night & Cultural,2026-09-30 19:58:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2173,VIT Vellore,Esports & Gaming,2026-09-13 22:53:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2174,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-10 19:05:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2175,Usha Martin University,Robo Wars & Mech Bay,2026-09-16 08:26:00,8,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-2176,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-01 15:16:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2177,IIT Guwahati,Robo Wars & Mech Bay,2026-09-29 17:51:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2178,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-04 18:31:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2179,VIT Vellore,Esports & Gaming,2026-09-25 21:17:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2180,NIT Jamshedpur,Star Night & Cultural,2026-09-04 19:59:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2181,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-26 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2182,BIT Sindri,Cyber Code & Hackathons,2026-09-06 19:55:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2183,VIT Vellore,Robo Wars & Mech Bay,2026-09-23 16:32:00,16,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2184,Usha Martin University,Cyber Code & Hackathons,2026-09-12 14:08:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2185,KIIT Bhubaneswar,Creative & AI Arts,2026-09-25 20:15:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2186,Usha Martin University,Star Night & Cultural,2026-09-09 15:48:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2187,Usha Martin University,Robo Wars & Mech Bay,2026-09-25 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2188,BIT Sindri,Creative & AI Arts,2026-09-14 21:54:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2189,Usha Martin University,Creative & AI Arts,2026-09-01 19:33:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2190,BIT Sindri,Esports & Gaming,2026-09-25 11:03:00,11,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2191,Ranchi University,Robo Wars & Mech Bay,2026-09-02 23:45:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2192,Ranchi University,Star Night & Cultural,2026-09-24 20:58:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2193,Ranchi University,Esports & Gaming,2026-09-20 21:44:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2194,Ranchi University,Robo Wars & Mech Bay,2026-09-20 20:41:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2195,IIT Guwahati,Creative & AI Arts,2026-09-29 14:02:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2196,BIT Sindri,Robo Wars & Mech Bay,2026-09-18 14:05:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2197,Usha Martin University,Robo Wars & Mech Bay,2026-09-29 20:37:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2198,VIT Vellore,Esports & Gaming,2026-09-17 09:03:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2199,Usha Martin University,Star Night & Cultural,2026-09-02 20:07:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2200,BIT Sindri,Cyber Code & Hackathons,2026-09-08 20:37:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2201,NIT Jamshedpur,Esports & Gaming,2026-09-27 19:43:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2202,VIT Vellore,Star Night & Cultural,2026-09-04 14:37:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2203,BIT Sindri,Esports & Gaming,2026-09-05 19:53:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2204,BIT Sindri,Cyber Code & Hackathons,2026-09-05 17:28:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2205,BIT Sindri,Star Night & Cultural,2026-09-18 18:25:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2206,KIIT Bhubaneswar,Creative & AI Arts,2026-09-23 22:31:00,22,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2207,BIT Sindri,Robo Wars & Mech Bay,2026-09-16 19:08:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2208,BIT Sindri,Creative & AI Arts,2026-09-24 11:35:00,11,True,NO_SHOW,0,08:00-12:00
+UMU-2026-2209,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-14 09:23:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2210,Usha Martin University,Robo Wars & Mech Bay,2026-09-10 23:19:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2211,Usha Martin University,Robo Wars & Mech Bay,2026-09-19 16:59:00,16,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2212,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 17:07:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2213,BIT Sindri,Cyber Code & Hackathons,2026-09-19 14:28:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2214,IIT Guwahati,Creative & AI Arts,2026-09-27 18:48:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2215,VIT Vellore,Creative & AI Arts,2026-09-22 16:55:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2216,NIT Jamshedpur,Star Night & Cultural,2026-09-14 15:57:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2217,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-29 16:17:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2218,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-26 20:19:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2219,Usha Martin University,Cyber Code & Hackathons,2026-09-20 18:48:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2220,Usha Martin University,Star Night & Cultural,2026-09-16 17:01:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2221,Usha Martin University,Star Night & Cultural,2026-09-01 13:13:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2222,BIT Sindri,Star Night & Cultural,2026-09-26 18:20:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2223,Ranchi University,Creative & AI Arts,2026-09-01 15:11:00,15,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2224,Usha Martin University,Star Night & Cultural,2026-09-09 08:06:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2225,Usha Martin University,Robo Wars & Mech Bay,2026-09-03 11:26:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2226,Usha Martin University,Esports & Gaming,2026-09-23 06:24:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2227,Ranchi University,Creative & AI Arts,2026-09-09 15:52:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2228,VIT Vellore,Robo Wars & Mech Bay,2026-09-19 13:32:00,13,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2229,Usha Martin University,Esports & Gaming,2026-09-15 18:04:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2230,Ranchi University,Robo Wars & Mech Bay,2026-09-01 13:37:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2231,NIT Jamshedpur,Star Night & Cultural,2026-09-05 14:26:00,14,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2232,Usha Martin University,Star Night & Cultural,2026-10-01 10:34:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2233,KIIT Bhubaneswar,Star Night & Cultural,2026-10-01 21:28:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2234,KIIT Bhubaneswar,Creative & AI Arts,2026-09-20 14:10:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2235,Usha Martin University,Creative & AI Arts,2026-09-09 21:24:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2236,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-17 13:10:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2237,VIT Vellore,Creative & AI Arts,2026-09-27 10:35:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2238,NIT Jamshedpur,Robo Wars & Mech Bay,2026-10-01 20:56:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2239,Usha Martin University,Creative & AI Arts,2026-09-22 23:21:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2240,Usha Martin University,Star Night & Cultural,2026-09-30 19:41:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2241,Ranchi University,Cyber Code & Hackathons,2026-09-22 12:35:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2242,Usha Martin University,Star Night & Cultural,2026-09-29 19:04:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2243,VIT Vellore,Creative & AI Arts,2026-09-12 23:24:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2244,Usha Martin University,Cyber Code & Hackathons,2026-09-12 22:28:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2245,VIT Vellore,Cyber Code & Hackathons,2026-09-22 21:22:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2246,NIT Jamshedpur,Star Night & Cultural,2026-09-26 19:14:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2247,Usha Martin University,Cyber Code & Hackathons,2026-09-29 19:38:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2248,Usha Martin University,Creative & AI Arts,2026-09-09 18:31:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2249,VIT Vellore,Star Night & Cultural,2026-09-20 18:04:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2250,Usha Martin University,Robo Wars & Mech Bay,2026-09-19 21:56:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2251,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-23 19:39:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2252,Usha Martin University,Creative & AI Arts,2026-09-14 19:41:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2253,BIT Sindri,Esports & Gaming,2026-09-14 13:43:00,13,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2254,VIT Vellore,Star Night & Cultural,2026-09-29 20:03:00,20,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2255,BIT Sindri,Star Night & Cultural,2026-09-01 15:21:00,15,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2256,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-08 23:27:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2257,Usha Martin University,Robo Wars & Mech Bay,2026-09-10 06:40:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2258,IIT Guwahati,Creative & AI Arts,2026-09-19 20:59:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2259,Usha Martin University,Robo Wars & Mech Bay,2026-09-08 22:53:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2260,IIT Guwahati,Star Night & Cultural,2026-10-01 07:38:00,7,False,NO_SHOW,0,04:00-08:00
+UMU-2026-2261,NIT Jamshedpur,Creative & AI Arts,2026-09-03 23:58:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2262,IIT Guwahati,Cyber Code & Hackathons,2026-09-02 21:28:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2263,Usha Martin University,Creative & AI Arts,2026-09-22 06:03:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2264,Usha Martin University,Creative & AI Arts,2026-09-25 16:55:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2265,IIT Guwahati,Creative & AI Arts,2026-09-29 19:06:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2266,BIT Sindri,Cyber Code & Hackathons,2026-09-11 18:06:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2267,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-27 12:36:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2268,Usha Martin University,Esports & Gaming,2026-09-16 20:28:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2269,Usha Martin University,Cyber Code & Hackathons,2026-09-10 18:32:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2270,IIT Guwahati,Star Night & Cultural,2026-09-05 17:38:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2271,BIT Sindri,Cyber Code & Hackathons,2026-09-22 19:03:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2272,Ranchi University,Star Night & Cultural,2026-09-14 15:12:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2273,Usha Martin University,Esports & Gaming,2026-09-16 19:29:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2274,KIIT Bhubaneswar,Star Night & Cultural,2026-09-20 14:21:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2275,BIT Sindri,Cyber Code & Hackathons,2026-09-30 00:14:00,0,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2276,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 20:52:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2277,Usha Martin University,Creative & AI Arts,2026-09-06 21:00:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2278,Usha Martin University,Esports & Gaming,2026-09-04 10:28:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2279,Usha Martin University,Esports & Gaming,2026-09-01 12:18:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2280,VIT Vellore,Esports & Gaming,2026-09-11 21:15:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2281,IIT Guwahati,Robo Wars & Mech Bay,2026-09-30 08:53:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2282,Usha Martin University,Cyber Code & Hackathons,2026-09-07 14:15:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2283,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-26 23:56:00,23,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2284,Usha Martin University,Cyber Code & Hackathons,2026-09-29 21:50:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2285,VIT Vellore,Creative & AI Arts,2026-09-11 18:40:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2286,NIT Jamshedpur,Star Night & Cultural,2026-09-28 18:50:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2287,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-09 21:54:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2288,IIT Guwahati,Cyber Code & Hackathons,2026-09-26 19:04:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2289,Usha Martin University,Star Night & Cultural,2026-09-17 17:20:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2290,VIT Vellore,Creative & AI Arts,2026-09-16 17:37:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2291,NIT Jamshedpur,Star Night & Cultural,2026-09-07 12:12:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2292,Usha Martin University,Creative & AI Arts,2026-09-14 21:36:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2293,Usha Martin University,Esports & Gaming,2026-09-03 10:05:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2294,Usha Martin University,Esports & Gaming,2026-09-02 17:39:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2295,BIT Sindri,Creative & AI Arts,2026-09-12 20:20:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2296,BIT Sindri,Robo Wars & Mech Bay,2026-09-09 19:22:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2297,BIT Sindri,Star Night & Cultural,2026-09-21 07:17:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2298,Usha Martin University,Cyber Code & Hackathons,2026-09-18 12:12:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2299,Usha Martin University,Esports & Gaming,2026-09-20 23:54:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2300,Usha Martin University,Esports & Gaming,2026-09-12 20:25:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2301,BIT Sindri,Cyber Code & Hackathons,2026-09-17 23:09:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2302,BIT Sindri,Robo Wars & Mech Bay,2026-09-17 18:35:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2303,Usha Martin University,Creative & AI Arts,2026-09-03 14:12:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2304,Usha Martin University,Creative & AI Arts,2026-09-15 21:01:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2305,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 01:51:00,1,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2306,BIT Sindri,Creative & AI Arts,2026-09-25 16:49:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2307,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-02 21:09:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2308,Ranchi University,Star Night & Cultural,2026-09-19 21:24:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2309,BIT Sindri,Cyber Code & Hackathons,2026-09-07 17:21:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2310,Usha Martin University,Esports & Gaming,2026-09-04 19:11:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2311,BIT Sindri,Star Night & Cultural,2026-09-06 12:58:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2312,Usha Martin University,Robo Wars & Mech Bay,2026-09-17 07:03:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2313,Usha Martin University,Robo Wars & Mech Bay,2026-09-30 16:10:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2314,BIT Sindri,Creative & AI Arts,2026-09-03 15:57:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2315,Usha Martin University,Robo Wars & Mech Bay,2026-09-27 19:30:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2316,NIT Jamshedpur,Esports & Gaming,2026-09-17 19:29:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2317,BIT Sindri,Robo Wars & Mech Bay,2026-09-27 16:51:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2318,Ranchi University,Star Night & Cultural,2026-09-15 17:02:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2319,Usha Martin University,Creative & AI Arts,2026-09-27 19:19:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2320,BIT Sindri,Robo Wars & Mech Bay,2026-09-06 21:46:00,21,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2321,VIT Vellore,Robo Wars & Mech Bay,2026-09-04 15:02:00,15,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2322,Usha Martin University,Robo Wars & Mech Bay,2026-09-21 18:42:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2323,Ranchi University,Robo Wars & Mech Bay,2026-09-14 23:35:00,23,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2324,VIT Vellore,Cyber Code & Hackathons,2026-09-17 20:20:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2325,Usha Martin University,Esports & Gaming,2026-09-02 17:04:00,17,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2326,Ranchi University,Creative & AI Arts,2026-09-13 05:16:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2327,Usha Martin University,Robo Wars & Mech Bay,2026-09-24 17:29:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2328,VIT Vellore,Robo Wars & Mech Bay,2026-09-15 10:52:00,10,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2329,IIT Guwahati,Robo Wars & Mech Bay,2026-09-20 08:18:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2330,Usha Martin University,Creative & AI Arts,2026-09-22 20:43:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2331,Usha Martin University,Esports & Gaming,2026-09-23 04:43:00,4,True,CHECKED_IN,1,00:00-04:00
+UMU-2026-2332,IIT Guwahati,Cyber Code & Hackathons,2026-09-26 18:42:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2333,BIT Sindri,Esports & Gaming,2026-09-20 00:49:00,0,False,NO_SHOW,0,00:00-04:00
+UMU-2026-2334,Usha Martin University,Robo Wars & Mech Bay,2026-09-08 12:01:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2335,Usha Martin University,Cyber Code & Hackathons,2026-09-07 19:04:00,19,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2336,IIT Guwahati,Cyber Code & Hackathons,2026-09-27 19:46:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2337,Usha Martin University,Star Night & Cultural,2026-09-11 14:40:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2338,Usha Martin University,Star Night & Cultural,2026-09-14 09:13:00,9,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2339,Usha Martin University,Robo Wars & Mech Bay,2026-09-21 14:24:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2340,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-09 19:23:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2341,BIT Sindri,Robo Wars & Mech Bay,2026-09-25 18:06:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2342,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-21 19:43:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2343,KIIT Bhubaneswar,Esports & Gaming,2026-09-22 17:21:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2344,BIT Sindri,Star Night & Cultural,2026-09-17 19:14:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2345,VIT Vellore,Star Night & Cultural,2026-09-04 14:47:00,14,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2346,Usha Martin University,Star Night & Cultural,2026-09-05 15:18:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2347,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-08 21:38:00,21,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2348,Usha Martin University,Esports & Gaming,2026-09-11 19:48:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2349,NIT Jamshedpur,Creative & AI Arts,2026-09-10 20:14:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2350,BIT Sindri,Robo Wars & Mech Bay,2026-09-30 21:15:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2351,BIT Sindri,Creative & AI Arts,2026-09-06 16:00:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2352,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-02 19:09:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2353,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-27 20:13:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2354,VIT Vellore,Creative & AI Arts,2026-09-10 11:12:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2355,Usha Martin University,Star Night & Cultural,2026-09-10 18:40:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2356,Usha Martin University,Creative & AI Arts,2026-09-12 16:10:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2357,NIT Jamshedpur,Star Night & Cultural,2026-09-14 20:52:00,20,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2358,BIT Sindri,Creative & AI Arts,2026-09-03 20:58:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2359,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-06 13:29:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2360,NIT Jamshedpur,Creative & AI Arts,2026-09-16 07:08:00,7,False,CHECKED_IN,1,04:00-08:00
+UMU-2026-2361,Usha Martin University,Robo Wars & Mech Bay,2026-09-28 17:46:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2362,KIIT Bhubaneswar,Creative & AI Arts,2026-09-24 15:31:00,15,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2363,Usha Martin University,Star Night & Cultural,2026-09-29 05:58:00,5,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2364,Usha Martin University,Star Night & Cultural,2026-09-25 16:16:00,16,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2365,NIT Jamshedpur,Creative & AI Arts,2026-09-12 19:41:00,19,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2366,Usha Martin University,Robo Wars & Mech Bay,2026-09-02 21:23:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2367,Usha Martin University,Robo Wars & Mech Bay,2026-09-15 22:09:00,22,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2368,KIIT Bhubaneswar,Star Night & Cultural,2026-09-27 11:07:00,11,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2369,Usha Martin University,Creative & AI Arts,2026-09-19 23:05:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2370,IIT Guwahati,Robo Wars & Mech Bay,2026-09-09 19:32:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2371,VIT Vellore,Creative & AI Arts,2026-09-30 20:05:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2372,IIT Guwahati,Esports & Gaming,2026-09-09 20:59:00,20,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2373,KIIT Bhubaneswar,Cyber Code & Hackathons,2026-09-27 17:06:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2374,BIT Sindri,Creative & AI Arts,2026-09-21 14:27:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2375,VIT Vellore,Robo Wars & Mech Bay,2026-09-07 17:32:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2376,Usha Martin University,Robo Wars & Mech Bay,2026-09-02 20:51:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2377,BIT Sindri,Creative & AI Arts,2026-09-30 19:55:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2378,Usha Martin University,Cyber Code & Hackathons,2026-09-09 07:01:00,7,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2379,Usha Martin University,Cyber Code & Hackathons,2026-09-09 20:00:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2380,IIT Guwahati,Star Night & Cultural,2026-09-13 18:48:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2381,VIT Vellore,Creative & AI Arts,2026-09-20 16:23:00,16,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2382,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-22 16:39:00,16,True,NO_SHOW,0,12:00-16:00
+UMU-2026-2383,IIT Guwahati,Esports & Gaming,2026-09-01 17:44:00,17,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2384,Usha Martin University,Robo Wars & Mech Bay,2026-09-04 21:17:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2385,VIT Vellore,Star Night & Cultural,2026-09-28 17:26:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2386,Usha Martin University,Esports & Gaming,2026-09-12 21:51:00,21,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2387,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-13 20:50:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2388,KIIT Bhubaneswar,Creative & AI Arts,2026-09-28 19:06:00,19,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2389,VIT Vellore,Robo Wars & Mech Bay,2026-09-28 18:36:00,18,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2390,Usha Martin University,Cyber Code & Hackathons,2026-09-22 23:55:00,23,False,CHECKED_IN,1,20:00-24:00
+UMU-2026-2391,KIIT Bhubaneswar,Creative & AI Arts,2026-09-16 19:15:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2392,Usha Martin University,Cyber Code & Hackathons,2026-09-23 04:59:00,4,True,NO_SHOW,0,00:00-04:00
+UMU-2026-2393,Usha Martin University,Esports & Gaming,2026-09-09 19:57:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2394,NIT Jamshedpur,Star Night & Cultural,2026-09-16 08:44:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2395,VIT Vellore,Star Night & Cultural,2026-09-20 07:21:00,7,False,NO_SHOW,0,04:00-08:00
+UMU-2026-2396,NIT Jamshedpur,Creative & AI Arts,2026-09-26 18:54:00,18,False,NO_SHOW,0,16:00-20:00
+UMU-2026-2397,Usha Martin University,Robo Wars & Mech Bay,2026-09-10 08:05:00,8,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2398,VIT Vellore,Robo Wars & Mech Bay,2026-09-04 18:08:00,18,True,NO_SHOW,0,16:00-20:00
+UMU-2026-2399,VIT Vellore,Star Night & Cultural,2026-09-10 06:34:00,6,True,CHECKED_IN,1,04:00-08:00
+UMU-2026-2400,Usha Martin University,Creative & AI Arts,2026-09-12 20:59:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2401,NIT Jamshedpur,Star Night & Cultural,2026-09-04 16:34:00,16,False,CHECKED_IN,1,12:00-16:00
+UMU-2026-2402,IIT Guwahati,Esports & Gaming,2026-09-16 19:09:00,19,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2403,NIT Jamshedpur,Cyber Code & Hackathons,2026-09-10 17:44:00,17,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2404,BIT Sindri,Star Night & Cultural,2026-09-27 12:18:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2405,Usha Martin University,Esports & Gaming,2026-09-23 12:46:00,12,True,CHECKED_IN,1,08:00-12:00
+UMU-2026-2406,Ranchi University,Cyber Code & Hackathons,2026-09-25 12:31:00,12,False,CHECKED_IN,1,08:00-12:00
+UMU-2026-2407,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-18 15:27:00,15,False,NO_SHOW,0,12:00-16:00
+UMU-2026-2408,Usha Martin University,Creative & AI Arts,2026-09-17 20:18:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2409,Usha Martin University,Star Night & Cultural,2026-09-05 14:50:00,14,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2410,BIT Sindri,Esports & Gaming,2026-09-06 18:28:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2411,Usha Martin University,Robo Wars & Mech Bay,2026-09-26 20:47:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2412,Usha Martin University,Star Night & Cultural,2026-09-26 23:09:00,23,False,NO_SHOW,0,20:00-24:00
+UMU-2026-2413,VIT Vellore,Creative & AI Arts,2026-09-06 21:06:00,21,True,NO_SHOW,0,20:00-24:00
+UMU-2026-2414,KIIT Bhubaneswar,Robo Wars & Mech Bay,2026-09-04 23:41:00,23,True,CHECKED_IN,1,20:00-24:00
+UMU-2026-2415,NIT Jamshedpur,Robo Wars & Mech Bay,2026-09-13 13:07:00,13,True,CHECKED_IN,1,12:00-16:00
+UMU-2026-2416,VIT Vellore,Esports & Gaming,2026-10-01 12:47:00,12,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2417,IIT Guwahati,Cyber Code & Hackathons,2026-09-28 20:24:00,20,True,CHECKED_IN,1,16:00-20:00
+UMU-2026-2418,Usha Martin University,Creative & AI Arts,2026-09-04 09:07:00,9,False,NO_SHOW,0,08:00-12:00
+UMU-2026-2419,Usha Martin University,Star Night & Cultural,2026-09-19 18:36:00,18,False,CHECKED_IN,1,16:00-20:00
+UMU-2026-2420,IIT Guwahati,Cyber Code & Hackathons,2026-09-06 15:41:00,15,False,CHECKED_IN,1,12:00-16:00

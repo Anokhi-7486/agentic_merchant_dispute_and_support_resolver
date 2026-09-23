@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import MartinovationLogo from './MartinovationLogo';
 import { useSound } from '../context/SoundContext';
-import { Volume2, VolumeX, Tv, Menu, X, Sparkles, Ticket } from 'lucide-react';
+import { Volume2, VolumeX, Tv, Menu, X, Sparkles, Ticket, BarChart3 } from 'lucide-react';
 
 export default function Navbar({ onOpenPassGen }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -9,6 +9,7 @@ export default function Navbar({ onOpenPassGen }) {
 
   const navLinks = [
     { name: "Quests", href: "#quests" },
+    { name: "Analytics", href: "#analytics" },
     { name: "Schedule", href: "#schedule" },
     { name: "Digital Pass", href: "#pass-gen" },
     { name: "Marty AI", href: "#ai-companion" },

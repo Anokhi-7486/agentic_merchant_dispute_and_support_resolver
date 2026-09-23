@@ -38,6 +38,23 @@ const registrationSchema = new mongoose.Schema({
     type: String,
     default: 'CONFIRMED',
   },
+  checkInStatus: {
+    type: String,
+    enum: ['PENDING', 'CHECKED_IN', 'NO_SHOW'],
+    default: 'PENDING',
+  },
+  checkedInAt: {
+    type: Date,
+    default: null,
+  },
+  checkInGate: {
+    type: String,
+    default: 'MAIN_GATE_ALPHA',
+  },
+  reminded: {
+    type: Boolean,
+    default: true,
+  },
   registeredAt: {
     type: Date,
     default: Date.now,
