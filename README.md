@@ -107,8 +107,8 @@ The platform coordinates three specialized agents with deterministic handoffs an
 ### Quickstart
 ```bash
 # 1. Clone repository
-git clone https://github.com/Anokhi-7486/paypal-resolvai.git
-cd paypal-resolvai
+git clone https://github.com/Anokhi-7486/agentic_merchant_dispute_and_support_resolver.git
+cd agentic_merchant_dispute_and_support_resolver
 
 # 2. Install dependencies
 npm install
