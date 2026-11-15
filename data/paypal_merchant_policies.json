@@ -1,0 +1,228 @@
+[
+  {
+    "id": "POL-SP-101",
+    "category": "SELLER_PROTECTION",
+    "title": "Seller Protection - Proof of Delivery for Tangible Goods",
+    "effective_date": "2024-01-01",
+    "version": "4.2",
+    "summary": "Protects merchants against unauthorized transactions and Item Not Received (INR) claims when valid online tracking is provided.",
+    "clauses": [
+      {
+        "clause_id": "POL-SP-101.1",
+        "name": "Eligible Transaction Requirements",
+        "text": "To qualify for PayPal Seller Protection under POL-SP-101, the merchant must ship physical goods to the shipping address listed on the Transaction Details page within the seller's specified handling time (maximum 7 business days from authorization).",
+        "tags": ["tangible", "shipping_address", "handling_time"]
+      },
+      {
+        "clause_id": "POL-SP-101.2",
+        "name": "Valid Proof of Delivery (PoD)",
+        "text": "Merchants must submit documentation from an approved shipping carrier (USPS, FedEx, UPS, DHL) demonstrating online viewable delivery status showing: (a) delivery date and timestamp, (b) recipient city/state/postal code matching transaction details, and (c) carrier delivery confirmation scan.",
+        "tags": ["tracking", "proof_of_delivery", "carrier_scan"]
+      },
+      {
+        "clause_id": "POL-SP-101.3",
+        "name": "Resolution Action",
+        "text": "When valid Proof of Delivery meeting all criteria is verified, the claim is decided in favor of the merchant (APPROVE_MERCHANT_PROTECTION), any temporary dispute hold is released, and chargeback fee is waived.",
+        "tags": ["resolution", "fee_waiver", "fund_release"]
+      }
+    ]
+  },
+  {
+    "id": "POL-SP-104",
+    "category": "HIGH_VALUE_THRESHOLD",
+    "title": "High-Value Item Delivery Mandate - Mandatory Signature Confirmation",
+    "effective_date": "2024-01-01",
+    "version": "3.8",
+    "summary": "Mandates recipient signature confirmation for transactions of $750.00 USD (or local currency equivalent) or higher to maintain Seller Protection eligibility.",
+    "clauses": [
+      {
+        "clause_id": "POL-SP-104.1",
+        "name": "Signature Confirmation Threshold",
+        "text": "For any transaction where the total sale amount (including shipping, taxes, and handling) is equal to or exceeds $750.00 USD, the merchant MUST provide online viewable signature confirmation of delivery signed by the recipient or an authorized household member.",
+        "tags": ["high_value", "signature_confirmation", "750_dollar_threshold"]
+      },
+      {
+        "clause_id": "POL-SP-104.2",
+        "name": "Consequences of Missing Signature on High-Value Orders",
+        "text": "Failure to provide signature confirmation for orders >= $750.00 USD voids automatic Seller Protection. If delivery drop-off is logged without signature, the dispute cannot be automatically settled and MUST be escalated to a Senior Risk Analyst (ESCALATE_TO_HUMAN) for manual carrier investigation.",
+        "tags": ["missing_signature", "escalation", "human_review"]
+      }
+    ]
+  },
+  {
+    "id": "POL-UT-204",
+    "category": "UNAUTHORIZED_TRANSACTIONS",
+    "title": "Unauthorized Transaction Claims & 3-D Secure Liability Shift",
+    "effective_date": "2024-01-01",
+    "version": "5.1",
+    "summary": "Defines liability parameters for Account Takeover (ATO) and stolen card claims, including EMV 3DS authentication protocols.",
+    "clauses": [
+      {
+        "clause_id": "POL-UT-204.1",
+        "name": "3-D Secure 2.0 Liability Shift",
+        "text": "Where a merchant processes an online checkout with 3-D Secure 2.0 (EMV 3DS) resulting in Electronic Commerce Indicator (ECI) 05 or 06, chargeback liability for fraudulent unauthorized transactions shifts from the merchant to the card issuer.",
+        "tags": ["3ds", "liability_shift", "eci_05_06"]
+      },
+      {
+        "clause_id": "POL-UT-204.2",
+        "name": "AVS and CVV Verification Safeguards",
+        "text": "Merchants maintaining full Address Verification Service (AVS) match ('Y' - address and 5-digit zip match) and Card Verification Value match ('M' - CVV2 matched) who shipped to the verified billing address are protected under PayPal Seller Protection against unauthorized dispute reversals.",
+        "tags": ["avs_match", "cvv_match", "billing_verification"]
+      }
+    ]
+  },
+  {
+    "id": "POL-FF-501",
+    "category": "FRIENDLY_FRAUD_DEFENSE",
+    "title": "Friendly Fraud & Geolocation Telemetry Compelling Evidence",
+    "effective_date": "2024-03-15",
+    "version": "2.4",
+    "summary": "Framework for detecting and defending against 'friendly fraud' where buyers falsely file claims despite possessing the merchandise.",
+    "clauses": [
+      {
+        "clause_id": "POL-FF-501.1",
+        "name": "Carrier GPS Telemetry Standards",
+        "text": "Carrier delivery scan GPS coordinates recorded within 50 meters of the buyer's confirmed delivery coordinates, coupled with carrier photographic drop-off proof, constitute decisive evidence of physical possession under Visa Compelling Evidence 3.0 standards.",
+        "tags": ["gps_telemetry", "compelling_evidence", "carrier_photo"]
+      },
+      {
+        "clause_id": "POL-FF-501.2",
+        "name": "Device & IP Fingerprint Correlation",
+        "text": "If checkout IP, ASN, browser canvas fingerprint, and device IMEI/UUID match the customer's historical authenticated login telemetry on the buyer account, claims of unrecognized transaction or non-receipt are categorized as first-party fraud and dismissed in merchant favor.",
+        "tags": ["ip_match", "device_fingerprint", "first_party_fraud"]
+      }
+    ]
+  },
+  {
+    "id": "POL-DB-305",
+    "category": "DUPLICATE_PROCESSING",
+    "title": "Duplicate Processing & Transaction Reconciliation",
+    "effective_date": "2023-11-01",
+    "version": "3.0",
+    "summary": "Mandates immediate remediation and refund issuance for duplicate billing occurrences caused by checkout timeouts or server race conditions.",
+    "clauses": [
+      {
+        "clause_id": "POL-DB-305.1",
+        "name": "Identification of Duplicate Charges",
+        "text": "A duplicate charge is confirmed when two or more transactions exhibit identical merchant ID, payment amount, currency, and customer payment method executed within a 15-minute window for a single cart checkout session without evidence of dual shipments.",
+        "tags": ["duplicate_debit", "checkout_retry", "time_window"]
+      },
+      {
+        "clause_id": "POL-DB-305.2",
+        "name": "Mandatory Immediate Remediation",
+        "text": "Upon verification of duplicate authorization without dual fulfillment, PayPal resolves the duplicate dispute in customer favor (ISSUE_CUSTOMER_REFUND). The merchant is credited back any processing surcharge and no chargeback assessment fee is levied against the merchant.",
+        "tags": ["customer_refund", "duplicate_credit", "fee_waiver"]
+      }
+    ]
+  },
+  {
+    "id": "POL-AR-402",
+    "category": "PRIOR_REFUND_OFFSETTING",
+    "title": "Pre-Dispute Prior Refund Offsetting & Dual Enrichment Prevention",
+    "effective_date": "2024-02-01",
+    "version": "2.1",
+    "summary": "Prevents unjust customer enrichment when an electronic refund was settled prior to or concurrently with a formal chargeback filing.",
+    "clauses": [
+      {
+        "clause_id": "POL-AR-402.1",
+        "name": "Proof of Prior Settlement",
+        "text": "If the merchant's financial ledger or gateway logs confirm that a full or agreed partial refund credit (ARN / Acquirer Reference Number) was executed prior to the bank dispute notification date, the dispute cannot result in a second debit to the merchant.",
+        "tags": ["prior_refund", "arn_number", "double_dipping"]
+      },
+      {
+        "clause_id": "POL-AR-402.2",
+        "name": "Immediate Dispute Closure",
+        "text": "The claim is closed in favor of the merchant (APPROVE_MERCHANT_PROTECTION) with an explanation submitted to the issuing bank proving that settlement credit was already transmitted to the cardholder's original funding instrument.",
+        "tags": ["close_dispute", "issuer_evidence", "no_double_refund"]
+      }
+    ]
+  },
+  {
+    "id": "POL-SNAD-201",
+    "category": "MERCHANDISE_CONDITION",
+    "title": "Significantly Not As Described (SNAD) & Return Merchandise Mandate",
+    "effective_date": "2024-01-15",
+    "version": "4.0",
+    "summary": "Governs buyer disputes claiming goods arrived defective, damaged, or fundamentally distinct from the merchant's published catalog listing.",
+    "clauses": [
+      {
+        "clause_id": "POL-SNAD-201.1",
+        "name": "Physical Return Requirement",
+        "text": "For tangible goods disputed under SNAD, the buyer is required to return the item to the merchant's designated RMA facility with tracked delivery. No funds may be debited from the merchant until carrier tracking confirms delivery of the return package.",
+        "tags": ["return_merchandise", "rma", "tracked_return"]
+      },
+      {
+        "clause_id": "POL-SNAD-201.2",
+        "name": "Merchant Return Policy Compliance",
+        "text": "If merchant provided clear item specifications, high-resolution photographs, and offered a prepaid return shipping label which the buyer refused to utilize within 10 business days, the dispute is resolved in merchant favor.",
+        "tags": ["prepaid_label", "return_refusal", "merchant_protection"]
+      }
+    ]
+  },
+  {
+    "id": "POL-REC-301",
+    "category": "RECURRING_BILLING",
+    "title": "Recurring Billing, SaaS & Subscription Cancellation Standards",
+    "effective_date": "2024-04-01",
+    "version": "3.3",
+    "summary": "Defines compliance obligations for recurring charges, automatic renewals, and cancellation notices.",
+    "clauses": [
+      {
+        "clause_id": "POL-REC-301.1",
+        "name": "Pre-Billing Renewal Notification",
+        "text": "Merchants operating annual or multi-month recurring subscriptions must dispatch an electronic renewal notice at least 7 calendar days before billing, detailing renewal amount, billing date, and straightforward cancellation mechanism.",
+        "tags": ["subscription", "renewal_notice", "cancellation_terms"]
+      },
+      {
+        "clause_id": "POL-REC-301.2",
+        "name": "Usage Telemetry & Cancellation Timing",
+        "text": "If merchant demonstrates that customer accessed the service during the billed cycle and cancellation request was submitted after billing date, recurring charge is upheld under merchant protection.",
+        "tags": ["saas_usage", "active_session", "valid_renewal"]
+      }
+    ]
+  },
+  {
+    "id": "POL-DIG-202",
+    "category": "DIGITAL_GOODS",
+    "title": "Intangible Goods & Digital Asset Delivery Standard",
+    "effective_date": "2024-05-01",
+    "version": "3.1",
+    "summary": "Standards for software licenses, digital downloads, virtual currencies, and cloud service entitlements.",
+    "clauses": [
+      {
+        "clause_id": "POL-DIG-202.1",
+        "name": "Digital Proof of Delivery Standard",
+        "text": "Valid proof of delivery for digital downloads and software keys requires: (a) server access logs with timestamp, (b) IP address and geographic location of download matching buyer account, (c) cryptographic hash or license activation confirmation.",
+        "tags": ["digital_goods", "license_activation", "server_logs"]
+      },
+      {
+        "clause_id": "POL-DIG-202.2",
+        "name": "Compelling Evidence Evaluation",
+        "text": "Submission of verified license activation logs constitutes conclusive proof of fulfillment, requiring dispute resolution in merchant favor (APPROVE_MERCHANT_PROTECTION).",
+        "tags": ["compelling_evidence", "digital_fulfillment", "seller_win"]
+      }
+    ]
+  },
+  {
+    "id": "POL-ESC-901",
+    "category": "ESCALATION_GOVERNANCE",
+    "title": "Risk Escalation Thresholds & Human-in-the-Loop Governance",
+    "effective_date": "2024-01-01",
+    "version": "5.0",
+    "summary": "Defines boundaries where autonomous agent resolution is prohibited and mandatory human escalation is enforced.",
+    "clauses": [
+      {
+        "clause_id": "POL-ESC-901.1",
+        "name": "Mandatory Human Escalation Triggers",
+        "text": "Autonomous agent resolution MUST be halted and escalated to a Tier-3 Senior Risk Investigator (ESCALATE_TO_HUMAN) when any of the following occur: (a) Transaction amount >= $2,500.00 USD, (b) Decision confidence score is below 0.80 (80%), (c) Conflicting carrier tracking records exist, or (d) Merchant dispute volume exceeds 1.5% excessive chargeback ratio.",
+        "tags": ["human_escalation", "high_value_2500", "low_confidence", "excessive_dispute_rate"]
+      },
+      {
+        "clause_id": "POL-ESC-901.2",
+        "name": "Anti-Hallucination & Policy Verification Guardrail",
+        "text": "Every automated dispute determination must be grounded in verbatim citations of indexed policy IDs. If an agent cites an unverified policy or dollar discrepancy exceeds $0.00, the determination is invalidated and routed to human review.",
+        "tags": ["guardrail", "anti_hallucination", "zero_dollar_variance"]
+      }
+    ]
+  }
+]

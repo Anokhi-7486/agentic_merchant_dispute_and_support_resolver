@@ -1,0 +1,740 @@
+[
+  {
+    "id": "DISP-89211",
+    "transaction_id": "TXN-88410291",
+    "case_title": "Suspected Friendly Fraud - Non-Receipt Claim with Geolocation Match",
+    "dispute_category": "ITEM_NOT_RECEIVED",
+    "amount": 349.99,
+    "currency": "USD",
+    "created_at": "2024-10-12T14:32:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-9014",
+      "name": "Marcus Vance",
+      "email": "m.vance88@gmail.com",
+      "account_created": "2021-04-18",
+      "past_dispute_count": 3,
+      "billing_address": "742 Evergreen Terrace, Springfield, OR 97477",
+      "shipping_address": "742 Evergreen Terrace, Springfield, OR 97477"
+    },
+    "merchant": {
+      "id": "MERCH-4190",
+      "name": "Apex Sound Labs Inc.",
+      "category": "Electronics & Audio Equipment",
+      "rating": 4.88,
+      "dispute_rate_percentage": 0.42,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "APX-NC-700",
+        "description": "Apex Pro ANC Wireless Studio Headphones",
+        "quantity": 1,
+        "unit_price": 349.99
+      }
+    ],
+    "telemetry": {
+      "ip_address": "73.158.42.19",
+      "ip_country": "US",
+      "ip_region": "OR",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "a9d8f34bc001e",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "FedEx Express",
+      "tracking_number": "781290481239",
+      "service_level": "FedEx 2Day",
+      "shipped_at": "2024-10-10T09:15:00Z",
+      "delivered_at": "2024-10-12T11:42:00Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "M. VANCE",
+      "delivery_gps": {
+        "latitude": 44.0532,
+        "longitude": -122.9984,
+        "accuracy_meters": 4.1,
+        "matches_recipient_address": true
+      },
+      "photo_proof_url": "https://carrier-proof.fedex.com/proof/781290481239.jpg",
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-12T14:30:00Z",
+          "from": "buyer",
+          "message": "I never saw any package on my porch. I want an immediate full refund."
+        },
+        {
+          "timestamp": "2024-10-12T14:35:00Z",
+          "from": "merchant",
+          "message": "Hi Marcus, FedEx tracking 781290481239 shows it was signed by M. VANCE at 11:42 AM today with porch photo attached."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-44029",
+    "transaction_id": "TXN-44910214",
+    "case_title": "INR Dispute with Valid Carrier Delivery & Seller Protection",
+    "dispute_category": "ITEM_NOT_RECEIVED",
+    "amount": 189.50,
+    "currency": "USD",
+    "created_at": "2024-10-08T18:20:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-3810",
+      "name": "Sarah Jenkins",
+      "email": "sarah.j.designs@outlook.com",
+      "account_created": "2022-09-10",
+      "past_dispute_count": 0,
+      "billing_address": "1204 Pine Hollow Way, Austin, TX 78704",
+      "shipping_address": "1204 Pine Hollow Way, Austin, TX 78704"
+    },
+    "merchant": {
+      "id": "MERCH-1029",
+      "name": "Nordic Timber Living",
+      "category": "Home & Furniture",
+      "rating": 4.95,
+      "dispute_rate_percentage": 0.18,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "NTL-WALNUT-DESK-SHELF",
+        "description": "Solid Walnut Dual Monitor Stand & Desk Organizer",
+        "quantity": 1,
+        "unit_price": 189.50
+      }
+    ],
+    "telemetry": {
+      "ip_address": "104.54.120.89",
+      "ip_country": "US",
+      "ip_region": "TX",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "f4410a82ec4",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "USPS Priority Mail",
+      "tracking_number": "9400111899562810481239",
+      "service_level": "Priority Mail 2-Day",
+      "shipped_at": "2024-10-04T10:00:00Z",
+      "delivered_at": "2024-10-07T13:15:00Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "Delivered to mailbox/front door",
+      "delivery_gps": {
+        "latitude": 30.2458,
+        "longitude": -97.7612,
+        "accuracy_meters": 3.0,
+        "matches_recipient_address": true
+      },
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-08T18:15:00Z",
+          "from": "buyer",
+          "message": "Mail carrier marked delivered but I cannot find it. Need replacement or refund."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-60912",
+    "transaction_id": "TXN-66120894",
+    "case_title": "Unauthorized Chargeback with Verified 3D-Secure Liability Shift",
+    "dispute_category": "UNAUTHORIZED_TRANSACTION",
+    "amount": 420.00,
+    "currency": "USD",
+    "created_at": "2024-10-14T09:12:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-5519",
+      "name": "Robert Chen",
+      "email": "r.chen.tech@gmail.com",
+      "account_created": "2020-01-15",
+      "past_dispute_count": 1,
+      "billing_address": "888 Howard Street, San Francisco, CA 94103",
+      "shipping_address": "888 Howard Street, San Francisco, CA 94103"
+    },
+    "merchant": {
+      "id": "MERCH-7740",
+      "name": "ComputeCore Systems",
+      "category": "Computer Hardware",
+      "rating": 4.91,
+      "dispute_rate_percentage": 0.25,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "RAM-DDR5-64G",
+        "description": "High-Speed 64GB DDR5 Gaming Memory Kit (2x32GB)",
+        "quantity": 1,
+        "unit_price": 420.00
+      }
+    ],
+    "telemetry": {
+      "ip_address": "98.210.14.77",
+      "ip_country": "US",
+      "ip_region": "CA",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "cc092b771e8a",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "cavv": "AAABBBCCCDDDEEEFFF111222=",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "UPS Ground",
+      "tracking_number": "1Z9999999999999999",
+      "service_level": "UPS Ground",
+      "shipped_at": "2024-10-09T14:30:00Z",
+      "delivered_at": "2024-10-12T10:50:00Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "R. CHEN",
+      "delivery_gps": {
+        "latitude": 37.7819,
+        "longitude": -122.4042,
+        "accuracy_meters": 5.0,
+        "matches_recipient_address": true
+      },
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-14T09:10:00Z",
+          "from": "buyer",
+          "message": "Bank notified me of a $420 charge. I did not authorize this purchase."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-11843",
+    "transaction_id": "TXN-11928374",
+    "case_title": "Duplicate Processing Glitch - Dual Charge on Single Checkout",
+    "dispute_category": "DUPLICATE_CHARGE",
+    "amount": 189.50,
+    "currency": "USD",
+    "created_at": "2024-10-15T11:05:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-7210",
+      "name": "Elena Rostova",
+      "email": "e.rostova@icloud.com",
+      "account_created": "2023-05-12",
+      "past_dispute_count": 0,
+      "billing_address": "450 Lexington Ave, New York, NY 10017",
+      "shipping_address": "450 Lexington Ave, New York, NY 10017"
+    },
+    "merchant": {
+      "id": "MERCH-3310",
+      "name": "Velvet & Vine Apparel",
+      "category": "Apparel & Accessories",
+      "rating": 4.65,
+      "dispute_rate_percentage": 0.85,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "VVA-CASHMERE-CREW",
+        "description": "Italian Cashmere Crewneck Sweater - Charcoal (M)",
+        "quantity": 1,
+        "unit_price": 189.50
+      }
+    ],
+    "telemetry": {
+      "ip_address": "69.120.88.14",
+      "ip_country": "US",
+      "ip_region": "NY",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "88bc91f04aa2",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "duplicate_twin_transaction_id": "TXN-11928373",
+      "duplicate_timestamp_delta_seconds": 0.42,
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "USPS Priority Mail",
+      "tracking_number": "9405511899220019481022",
+      "service_level": "Priority Mail",
+      "shipped_at": "2024-10-15T16:00:00Z",
+      "delivered_at": null,
+      "delivery_status": "IN_TRANSIT",
+      "signed_by": null,
+      "single_fulfillment_verified": true,
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-15T11:00:00Z",
+          "from": "buyer",
+          "message": "My card statement shows two identical charges of $189.50 within the same second when page froze. Please refund the duplicate."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-77294",
+    "transaction_id": "TXN-77382910",
+    "case_title": "Pre-Dispute Prior Refund Already Processed via Merchant Gateway",
+    "dispute_category": "REFUND_ALREADY_PROCESSED",
+    "amount": 349.00,
+    "currency": "USD",
+    "created_at": "2024-10-14T16:45:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-4109",
+      "name": "David K. Sterling",
+      "email": "dsterling@finadvisors.net",
+      "account_created": "2019-11-20",
+      "past_dispute_count": 1,
+      "billing_address": "200 N Michigan Ave, Chicago, IL 60601",
+      "shipping_address": "200 N Michigan Ave, Chicago, IL 60601"
+    },
+    "merchant": {
+      "id": "MERCH-8820",
+      "name": "Precision Optics Direct",
+      "category": "Camera & Optical Equipment",
+      "rating": 4.90,
+      "dispute_rate_percentage": 0.31,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "OPT-PRISM-10x42",
+        "description": "High-Definition Waterproof Field Binoculars",
+        "quantity": 1,
+        "unit_price": 349.00
+      }
+    ],
+    "prior_refund_record": {
+      "refund_id": "REF-99210492",
+      "amount": 349.00,
+      "processed_at": "2024-10-12T14:10:00Z",
+      "arn_acquirer_reference_number": "74528109382109482019482",
+      "refund_method": "ORIGINAL_PAYMENT_METHOD",
+      "settlement_status": "SETTLED_TO_ISSUING_BANK"
+    },
+    "telemetry": {
+      "ip_address": "67.180.201.33",
+      "ip_country": "US",
+      "ip_region": "IL",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "77ae0481bb2",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "UPS Ground",
+      "tracking_number": "1Z8888888888888888",
+      "service_level": "UPS Ground",
+      "shipped_at": "2024-10-08T11:00:00Z",
+      "delivered_at": "2024-10-10T15:20:00Z",
+      "delivery_status": "RETURNED_TO_SENDER",
+      "signed_by": "RMA RECEIVING DOCK",
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-12T14:05:00Z",
+          "from": "merchant",
+          "message": "Return package received. Full refund of $349.00 issued to your card under ARN 74528109382109482019482."
+        },
+        {
+          "timestamp": "2024-10-14T16:40:00Z",
+          "from": "buyer",
+          "message": "Filed chargeback with Chase because credit didn't appear on mobile app immediately."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-99431",
+    "transaction_id": "TXN-99841029",
+    "case_title": "High-Value Transaction ($4,250) Missing Mandatory Delivery Signature",
+    "dispute_category": "HIGH_VALUE_CHARGEBACK",
+    "amount": 4250.00,
+    "currency": "USD",
+    "created_at": "2024-10-16T12:00:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-1904",
+      "name": "Alexander Montgomery",
+      "email": "a.montgomery@wealthgroup.com",
+      "account_created": "2018-06-04",
+      "past_dispute_count": 0,
+      "billing_address": "150 Ocean Drive, Suite PH4, Miami Beach, FL 33139",
+      "shipping_address": "150 Ocean Drive, Suite PH4, Miami Beach, FL 33139"
+    },
+    "merchant": {
+      "id": "MERCH-9901",
+      "name": "ChronoLux Haute Horlogerie",
+      "category": "Luxury Watches & Fine Jewelry",
+      "rating": 4.98,
+      "dispute_rate_percentage": 0.12,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "CHRONO-SUB-BLUE",
+        "description": "Swiss Automatic Chronometer 41mm - Ceramic Blue Bezel",
+        "quantity": 1,
+        "unit_price": 4250.00
+      }
+    ],
+    "telemetry": {
+      "ip_address": "76.109.18.204",
+      "ip_country": "US",
+      "ip_region": "FL",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "1190bcda421",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "FedEx Priority Overnight",
+      "tracking_number": "794820194820",
+      "service_level": "FedEx Priority Overnight",
+      "shipped_at": "2024-10-13T17:00:00Z",
+      "delivered_at": "2024-10-14T10:15:00Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": null,
+      "signature_required_on_waybill": false,
+      "carrier_delivery_note": "Left on front porch by driver / Direct signature was NOT requested on label",
+      "delivery_gps": {
+        "latitude": 25.7712,
+        "longitude": -80.1311,
+        "accuracy_meters": 12.0,
+        "matches_recipient_address": true
+      },
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-16T11:50:00Z",
+          "from": "buyer",
+          "message": "A $4,250 watch was supposed to be hand-delivered with signature. There is no package here and building security has no record of it. Filing bank chargeback."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-33215",
+    "transaction_id": "TXN-33491028",
+    "case_title": "Significantly Not As Described (SNAD) - Buyer Refused RMA Return",
+    "dispute_category": "SIGNIFICANTLY_NOT_AS_DESCRIBED",
+    "amount": 279.00,
+    "currency": "USD",
+    "created_at": "2024-10-11T15:00:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-6102",
+      "name": "Tanya Kowalski",
+      "email": "tanya.kowa@gmail.com",
+      "account_created": "2021-12-05",
+      "past_dispute_count": 2,
+      "billing_address": "820 N Michigan Ave, Chicago, IL 60611",
+      "shipping_address": "820 N Michigan Ave, Chicago, IL 60611"
+    },
+    "merchant": {
+      "id": "MERCH-5510",
+      "name": "Artisan Leatherworks Co.",
+      "category": "Leather Goods & Luggage",
+      "rating": 4.79,
+      "dispute_rate_percentage": 0.38,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "ALW-BRIEFCASE-ESPRESSO",
+        "description": "Full-Grain Italian Leather Attache Briefcase - Espresso Brown",
+        "quantity": 1,
+        "unit_price": 279.00
+      }
+    ],
+    "telemetry": {
+      "ip_address": "72.19.144.52",
+      "ip_country": "US",
+      "ip_region": "IL",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "33ab491ec08",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "UPS Ground",
+      "tracking_number": "1Z5555555555555555",
+      "service_level": "UPS Ground",
+      "shipped_at": "2024-10-05T12:00:00Z",
+      "delivered_at": "2024-10-08T14:40:00Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "T. KOWALSKI",
+      "handling_days": 1
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "rma_prepaid_label_issued": true,
+      "rma_label_tracking": "1Z5555555555559999",
+      "rma_days_elapsed": 12,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-09T10:00:00Z",
+          "from": "buyer",
+          "message": "The shade of brown looks darker than photos online. I demand a 100% refund and I will keep the bag."
+        },
+        {
+          "timestamp": "2024-10-09T11:15:00Z",
+          "from": "merchant",
+          "message": "We have sent a prepaid UPS return label. Upon return scan, full refund will be initiated."
+        },
+        {
+          "timestamp": "2024-10-11T14:45:00Z",
+          "from": "buyer",
+          "message": "I do not have time to go drop off packages. Refund me now or I dispute."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-55820",
+    "transaction_id": "TXN-55829104",
+    "case_title": "SaaS Subscription Renewal Dispute with Active Platform Telemetry",
+    "dispute_category": "RECURRING_BILLING",
+    "amount": 79.00,
+    "currency": "USD",
+    "created_at": "2024-10-14T08:30:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-8802",
+      "name": "Jordan Peterson",
+      "email": "jordan.p@designmatrix.io",
+      "account_created": "2023-10-10",
+      "past_dispute_count": 0,
+      "billing_address": "100 King St W, Toronto, ON M5X 1A9, Canada",
+      "shipping_address": "100 King St W, Toronto, ON M5X 1A9, Canada"
+    },
+    "merchant": {
+      "id": "MERCH-6620",
+      "name": "VectorFlow Cloud Analytics",
+      "category": "B2B Software as a Service",
+      "rating": 4.93,
+      "dispute_rate_percentage": 0.20,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "VF-PRO-MONTHLY",
+        "description": "VectorFlow Pro Tier Subscription - 10-Seat Monthly License",
+        "quantity": 1,
+        "unit_price": 79.00
+      }
+    ],
+    "telemetry": {
+      "ip_address": "142.114.78.102",
+      "ip_country": "CA",
+      "ip_region": "ON",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "55cd1092aa4",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and Postal Code match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "active_sessions_during_cycle": 14,
+      "last_login_timestamp": "2024-10-14T07:45:00Z",
+      "renewal_notice_sent_at": "2024-10-03T09:00:00Z",
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "Digital Delivery",
+      "tracking_number": "DIGITAL-TOKEN-VF-9921",
+      "service_level": "Instant Entitlement Provisioning",
+      "shipped_at": "2024-10-10T00:01:00Z",
+      "delivered_at": "2024-10-10T00:01:05Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "API TOKEN ACTIVATION",
+      "handling_days": 0
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-14T08:25:00Z",
+          "from": "buyer",
+          "message": "Did not realize subscription would renew automatically this month. Requesting refund."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DISP-22709",
+    "transaction_id": "TXN-22849102",
+    "case_title": "Digital Software Key Dispute with Verified Server Activation Log",
+    "dispute_category": "DIGITAL_GOODS",
+    "amount": 149.00,
+    "currency": "USD",
+    "created_at": "2024-10-13T17:15:00Z",
+    "status": "UNDER_INVESTIGATION",
+    "customer": {
+      "id": "CUST-3391",
+      "name": "Devin Miller",
+      "email": "devin.miller@codelab.dev",
+      "account_created": "2022-04-14",
+      "past_dispute_count": 0,
+      "billing_address": "550 Terry Francois Blvd, San Francisco, CA 94158",
+      "shipping_address": "550 Terry Francois Blvd, San Francisco, CA 94158"
+    },
+    "merchant": {
+      "id": "MERCH-4412",
+      "name": "DevForge Developer Tools",
+      "category": "Developer Software",
+      "rating": 4.87,
+      "dispute_rate_percentage": 0.22,
+      "verified_seller": true,
+      "protection_eligible": true
+    },
+    "items": [
+      {
+        "sku": "DEV-SQL-STUDIO-PERPETUAL",
+        "description": "SQL Studio Enterprise - Perpetual Developer License Key",
+        "quantity": 1,
+        "unit_price": 149.00
+      }
+    ],
+    "telemetry": {
+      "ip_address": "67.188.19.45",
+      "ip_country": "US",
+      "ip_region": "CA",
+      "ip_matches_buyer_address": true,
+      "device_fingerprint": "22ee9108cc3",
+      "device_matches_account_history": true,
+      "avs_result": "Y",
+      "avs_description": "Full Match: Street Address and 5-digit ZIP match",
+      "cvv_result": "M",
+      "cvv_description": "Match: Card CVV matched",
+      "license_activation_log": {
+        "license_key_hash": "sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+        "activated_at": "2024-10-11T20:12:44Z",
+        "machine_guid": "WIN-UUID-9912048-A81",
+        "client_ip": "67.188.19.45",
+        "ip_matches_checkout": true
+      },
+      "three_d_secure": {
+        "enrolled": true,
+        "authenticated": true,
+        "eci": "05",
+        "liability_shifted": true
+      }
+    },
+    "shipping": {
+      "carrier": "Digital Download & Key Server",
+      "tracking_number": "LIC-KEY-991048-SQL",
+      "service_level": "Instant Delivery",
+      "shipped_at": "2024-10-11T20:00:00Z",
+      "delivered_at": "2024-10-11T20:00:01Z",
+      "delivery_status": "DELIVERED",
+      "signed_by": "DIGITAL LICENSE CLAIMED",
+      "handling_days": 0
+    },
+    "evidence_dossier": {
+      "order_confirmation_emailed": true,
+      "customer_communication_log": [
+        {
+          "timestamp": "2024-10-13T17:10:00Z",
+          "from": "buyer",
+          "message": "License key was never delivered to my inbox. Disputing transaction."
+        }
+      ]
+    }
+  }
+]
