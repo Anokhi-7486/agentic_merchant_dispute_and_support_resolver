@@ -22,6 +22,20 @@ interface EvidenceDossierProps {
   dispute: Dispute;
 }
 
+const dateFormatOptions: Intl.DateTimeFormatOptions = {
+  year: "numeric",
+  month: "numeric",
+  day: "numeric",
+  timeZone: "UTC",
+};
+
+const timeFormatOptions: Intl.DateTimeFormatOptions = {
+  hour: "numeric",
+  minute: "2-digit",
+  second: "2-digit",
+  timeZone: "UTC",
+};
+
 export const EvidenceDossier: React.FC<EvidenceDossierProps> = ({ dispute }) => {
   const { customer, merchant, items, telemetry, shipping, prior_refund_record } = dispute;
 
@@ -50,7 +64,7 @@ export const EvidenceDossier: React.FC<EvidenceDossierProps> = ({ dispute }) => 
             </span>
           </div>
           <span className="text-[11px] text-slate-400">
-            Disputed on {new Date(dispute.created_at).toLocaleDateString()}
+            Disputed on {new Date(dispute.created_at).toLocaleDateString("en-US", dateFormatOptions)}
           </span>
         </div>
       </div>
@@ -256,7 +270,7 @@ export const EvidenceDossier: React.FC<EvidenceDossierProps> = ({ dispute }) => 
               {shipping.tracking_number}
             </div>
             <div className="text-[11px] text-slate-400">
-              Shipped: {new Date(shipping.shipped_at).toLocaleDateString()}
+              Shipped: {new Date(shipping.shipped_at).toLocaleDateString("en-US", dateFormatOptions)}
             </div>
           </div>
 
@@ -297,7 +311,7 @@ export const EvidenceDossier: React.FC<EvidenceDossierProps> = ({ dispute }) => 
             <code className="text-emerald-300 bg-emerald-900/60 px-1 py-0.5 rounded font-mono">
               {prior_refund_record.arn_acquirer_reference_number}
             </code>{" "}
-            on {new Date(prior_refund_record.processed_at).toLocaleDateString()}.
+            on {new Date(prior_refund_record.processed_at).toLocaleDateString("en-US", dateFormatOptions)}.
           </p>
         </div>
       )}
@@ -323,7 +337,7 @@ export const EvidenceDossier: React.FC<EvidenceDossierProps> = ({ dispute }) => 
                   <span className="font-semibold uppercase tracking-wider">
                     {log.from === "buyer" ? "Customer" : "Merchant Support"}
                   </span>
-                  <span>{new Date(log.timestamp).toLocaleTimeString()}</span>
+                  <span>{new Date(log.timestamp).toLocaleTimeString("en-US", timeFormatOptions)}</span>
                 </div>
                 <p>{log.message}</p>
               </div>
